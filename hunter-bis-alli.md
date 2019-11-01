@@ -1,5 +1,6 @@
 "True" BiS is the absolute best gear configuration given all the possible options. Often this doesn't give you a great picture of what you should be striving for in the real world, so the "realistic" BiS alternative sets are generally recommended.
 Gear lists are based on their general effectiveness against all raid bosses as opposed to being tailored for specific bosses, unless otherwise specified.
+
 Normal PvE rotation
 ===
 Pre-raid BiS
