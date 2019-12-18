@@ -6,7 +6,7 @@ Skinnay's Alliance Hunter Gear Lists
 - Gear lists are based on their general effectiveness against all raid bosses as opposed to being tailored for specific bosses, unless otherwise specified.
 
 
-Normal PvE rotation
+Normal Ranged rotation
 ===
 Pre-raid
 ---
@@ -57,13 +57,9 @@ Phase 4
 
 
 
-Melee weave PvE rotation
+Melee weave rotation
 ===
-Phase 2
+Phase 3
 [True](https://sixtyupgrades.com/set/uazo3WSb7mbXVyaoxJ1akA)
 
 
-
-
-PvP
-===
