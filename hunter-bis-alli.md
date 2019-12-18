@@ -54,20 +54,27 @@ I. [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyD
 
 Phase 4
 ---
-- +15% agility from Spirit of Zandalar is now assumed
+#### 1. Assuming +15% agility from Spirit of Zandalar
 
-A. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67)
+1A. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67)
 
-B. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2)
+1B. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2)
 
-C. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf)
+1C. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf)
 
-D. 
+1D. 
 
-E. 
+1E. 
 
-F. 
+1F. 
 
+#### 2. No Zandalar
+
+2A.
+
+2B.
+
+2C.
 
 
 
