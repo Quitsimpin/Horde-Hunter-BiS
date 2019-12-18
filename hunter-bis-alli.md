@@ -11,6 +11,7 @@ Normal PvE rotation
 Pre-raid
 ---
 Note: I am not including PvP ranking gear as "pre-raid".
+
 A. [True, Hit Scope](https://sixtyupgrades.com/set/8yTYGRgV14Ubc5jHeJYfSm)
 
 B. [Realistic, Trueaim)](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb)
