@@ -1,5 +1,5 @@
 Alliance Hunter Gear Lists
-#
+=
 
 - "True" BiS is the absolute best gear configuration given all the possible options. Often this doesn't give you a great picture of what you should be striving for, so realistic BiS alternative sets are provided to plan for constraints that can occur with typical loot distribution.
 - Stat weights are based on Sixx's DPS sheet assuming full buffs, consumables, and boss debuffs with 20/31/0 spec, unless otherwise specified. These are of course subject to change with different variables and/or if the sheet is updated.
