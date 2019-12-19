@@ -94,6 +94,9 @@ Phase 4
 
 2H. [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) - 876.2 dps / 1077.3 aoe / 912.2 t2 debuff
 
+2I. [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) - 869.4 dps / 1068.3 aoe / 905.5 t2 debuff
+
+2J. [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) - 869.4 dps / 1068.4 aoe / 905.4 t2 debuff
 
 Melee weave rotation
 ===
