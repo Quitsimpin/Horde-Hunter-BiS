@@ -23,11 +23,15 @@ Phase 2.5
 ---
 A. [True, R14](https://sixtyupgrades.com/set/7wKbawFECYK7vVucFTzGKe) - 832.8 dps / 993.9 aoe
 
-B. [True, T1](https://sixtyupgrades.com/set/d7XzEiMbMqCcfxa6kP6ZiT) - 824.1 dps / 996.6 aoe
+B. [True, 5/8 T1, R12](https://sixtyupgrades.com/set/enzMBKJVDdj8mM2jAZnkPa) - 824.8 dps / 983.8 aoe
 
-C. [Realistic, T1, Brutality Blade](https://sixtyupgrades.com/set/6qMZ5HDGPnoAAKf511CnAT) - 819.4 dps / 990.5 aoe
+C. [True, T1](https://sixtyupgrades.com/set/d7XzEiMbMqCcfxa6kP6ZiT) - 824.1 dps / 996.6 aoe
 
-D. [Realistic, T1](https://sixtyupgrades.com/set/62RHLhx4rgPieNs7rfeAGW) - 818.2 dps / 989 aoe
+D. [Realistic, T1, Brutality Blade](https://sixtyupgrades.com/set/6qMZ5HDGPnoAAKf511CnAT) - 819.4 dps / 990.5 aoe
+
+E. [Realistic, T1](https://sixtyupgrades.com/set/62RHLhx4rgPieNs7rfeAGW) - 818.2 dps / 989 aoe
+
+F. [Realistic, 5/8 T1, R12](https://sixtyupgrades.com/set/b3hXX1XVS3DnBchr2LXUKW) - 817.3 dps / 974.4 aoe
 
 
 Phase 3
