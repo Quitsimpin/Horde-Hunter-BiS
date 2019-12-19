@@ -66,9 +66,9 @@ Phase 4
 
 1A. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67)
 
-1B. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2)
+1B. 
 
-1C. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf)
+1C. 
 
 1D. 
 
@@ -78,12 +78,21 @@ Phase 4
 
 #### 2. No Zandalar
 
-2A.
+2A. [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) - 907.6 dps / 1050.7 aoe / 872.3 no debuff
 
-2B.
+2B. [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) - 903 dps / 1044.5 aoe / 867.5 no debuff
 
-2C.
+2C. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) - 893.5 dps / 1083.7 aoe / 929.5 t2 debuff
 
+2D. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) - 886.8 dps / 1074.8 aoe / 922.8 t2 debuff
+
+2E. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) - 886.7 dps / 1075 aoe / 922.7 t2 debuff
+
+2F. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) - 885.5 dps / 1073.3 aoe / 921.8 t2 debuff
+
+2G. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) - 880.4 dps / 1061 aoe / 916.6 t2 debuff
+
+2H. [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) - 876.2 dps / 1077.3 aoe / 912.2 t2 debuff
 
 
 Melee weave rotation
