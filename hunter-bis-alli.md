@@ -1,4 +1,4 @@
-Skinnay's Alliance Hunter Gear Lists
+Skinnay's Classic Hunter Gear lists (Alliance)
 =
 
 - "True" BiS is the absolute best gear configuration given all the possible options. Often this doesn't give you a great picture of what you should be striving for, so realistic alternative sets are provided to plan for constraints that can occur with typical loot distribution.
