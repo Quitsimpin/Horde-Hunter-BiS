@@ -52,11 +52,13 @@ E. [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyD
 
 F. [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) - 864.9 dps / 1041.3 aoe / 901 t2 debuff
 
-G. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) - 862.7 dps / 1044.2 aoe / 898.6 t2 debuff
+G. [True, T1](https://sixtyupgrades.com/set/2zGBs9vd8eVU2M8mRCVTFg) - 862.8 dps / 1060 aoe / 899 t2 debuff
 
-H. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) - 859.9 dps / 1034.9 aoe / 895.7 t2 debuff
+H. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) - 862.7 dps / 1044.2 aoe / 898.6 t2 debuff
 
-I. [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) -  852.8 dps / 1046.7 aoe / 888.7 t2 debuff
+I. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) - 859.9 dps / 1034.9 aoe / 895.7 t2 debuff
+
+J. [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) -  852.8 dps / 1046.7 aoe / 888.7 t2 debuff
 
 Phase 4
 ---
