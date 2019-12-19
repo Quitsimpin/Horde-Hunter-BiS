@@ -82,6 +82,3 @@ Phase 4
 Melee weave rotation
 ===
 Phase 3
-[True](https://sixtyupgrades.com/set/uazo3WSb7mbXVyaoxJ1akA)
-
-
