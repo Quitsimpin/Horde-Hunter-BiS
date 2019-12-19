@@ -14,9 +14,9 @@ Pre-raid
 
 A. [True, Hit Scope](https://sixtyupgrades.com/set/8yTYGRgV14Ubc5jHeJYfSm) - 754.5 dps
 
-B. [Realistic, Devilsaur)](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) - 747 dps
+B. [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) - 747 dps
 
-C. [Realistic, Trueaim)](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) - 745.5 dps
+C. [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) - 745.5 dps
 
 
 Phase 2.5
