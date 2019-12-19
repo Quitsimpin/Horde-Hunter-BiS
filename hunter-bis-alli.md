@@ -32,13 +32,17 @@ D. [Realistic, T1](https://sixtyupgrades.com/set/62RHLhx4rgPieNs7rfeAGW) - 818.2
 
 Phase 3
 ---
+- Sets without 3/8 T2 assume that the bonus can be snapshotted and used.
+- Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting.
+- Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
+
 A. [True, T2](https://sixtyupgrades.com/set/aZ94fKMhQxCaZNr4xG4D1f) - 894.6 dps / 1033.4 aoe / 858.7 no debuff
 
 B. [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) - 887.6 dps / 1025.2 aoe / 852.2 no debuff
 
 C. [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) - 882.4 dps / 1018.8 aoe / 847.2 no debuff
 
-D. [True, R14](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) - 878 dps / 1063.8 aoe / 914.2 t2 debuff
+D. [True, R14](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) - 882.2 dps / 1069.1 aoe / 918.3 t2 debuff
 
 E. [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) - 867.8 dps / 1050.7 aoe / 903.9 t2 debuff
 
@@ -48,10 +52,7 @@ G. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3)
 
 H. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) - 859.9 dps / 1034.9 aoe / 895.7 t2 debuff
 
-I. [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) -  848.6 dps / 1041.4 aoe / 884.6 t2 debuff
-
-- Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting.
-- Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
+I. [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) -  852.8 dps / 1046.7 aoe / 888.7 t2 debuff
 
 Phase 4
 ---
