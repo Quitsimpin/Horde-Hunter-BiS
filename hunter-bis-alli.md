@@ -62,49 +62,28 @@ J. [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) -  852.
 
 Phase 4
 ---
-#### 1. Assuming +15% agility from Spirit of Zandalar
+- Assuming +15% agility from Spirit of Zandalar
 
-1A. [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) - 964.4 dps / 1119 aoe / 928.4 no debuff
+A. [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) - 964.4 dps / 1119 aoe / 928.4 no debuff
 
-1B. [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) - 957.8 dps / 1110.4 aoe / 921.7 no debuff
+B. [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) - 957.8 dps / 1110.4 aoe / 921.7 no debuff
 
-1C. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) - 950.7 dps / 1153.7 aoe / 987.2 t2 debuff
+C. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) - 950.7 dps / 1153.7 aoe / 987.2 t2 debuff
 
-1D. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) - 944.5 dps / 1145.6 aoe / 981.1 t2 debuff
+D. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) - 944.5 dps / 1145.6 aoe / 981.1 t2 debuff
 
-1E. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) - 943.9 dps / 1145.1 aoe / 980.5 t2 debuff
+E. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) - 943.9 dps / 1145.1 aoe / 980.5 t2 debuff
 
-1F. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) - 943.2 dps / 1143.9 aoe / 980.1 t2 debuff
+F. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) - 943.2 dps / 1143.9 aoe / 980.1 t2 debuff
 
-1G. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) - 935.4 dps / 1127.9 aoe / 972.2 t2 debuff
+G. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) - 935.4 dps / 1127.9 aoe / 972.2 t2 debuff
 
-1H. [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) - 929.6 dps / 1143.5 aoe / 966.1 t2 debuff
+H. [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) - 929.6 dps / 1143.5 aoe / 966.1 t2 debuff
 
-1I. [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) - 923.3 dps / 1135.2 aoe / 960 t2 debuff
+I. [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) - 923.3 dps / 1135.2 aoe / 960 t2 debuff
 
-1J. [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) - 922.8 dps / 1134.7 aoe / 959.4 t2 debuff
+J. [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) - 922.8 dps / 1134.7 aoe / 959.4 t2 debuff
 
-#### 2. No Zandalar
-
-2A. [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) - 907.6 dps / 1050.7 aoe / 872.3 no debuff
-
-2B. [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) - 903 dps / 1044.5 aoe / 867.5 no debuff
-
-2C. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) - 893.5 dps / 1083.7 aoe / 929.5 t2 debuff
-
-2D. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) - 886.8 dps / 1074.8 aoe / 922.8 t2 debuff
-
-2E. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) - 886.7 dps / 1075 aoe / 922.7 t2 debuff
-
-2F. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) - 885.5 dps / 1073.3 aoe / 921.8 t2 debuff
-
-2G. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) - 880.4 dps / 1061 aoe / 916.6 t2 debuff
-
-2H. [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) - 876.2 dps / 1077.3 aoe / 912.2 t2 debuff
-
-2I. [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) - 869.4 dps / 1068.3 aoe / 905.5 t2 debuff
-
-2J. [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) - 869.4 dps / 1068.4 aoe / 905.4 t2 debuff
 
 Melee weave rotation
 ===
