@@ -64,21 +64,19 @@ Phase 4
 ---
 #### 1. Assuming +15% agility from Spirit of Zandalar
 
-1A. [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) - 907.6 dps / 1050.7 aoe / 872.3 no debuff
+1A. [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) - 1120.1 dps / 1259.5 aoe / 1068.9 no debuff
 
-1B. [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) - 903 dps / 1044.5 aoe / 867.5 no debuff
+1B. [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) - 1112.2 dps / 1249.5 aoe / 1060.8 no debuff
 
-1C. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) - 893.5 dps / 1083.7 aoe / 929.5 t2 debuff
+1C. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) - 1094.4 dps / 1297.4 aoe / 1146.4 t2 debuff
 
-1D. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) - 886.8 dps / 1074.8 aoe / 922.8 t2 debuff
+1D. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) - 1087 dps / 1288.1 aoe / 1139.1 t2 debuff
 
-1E. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) - 886.7 dps / 1075 aoe / 922.7 t2 debuff
+1E. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) - 1086.3 dps / 1287.4 aoe / 1138.3 t2 debuff
 
-1F. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) - 885.5 dps / 1073.3 aoe / 921.8 t2 debuff
+1F. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) - 1085.3 dps / 1286 aoe / 1137.8 t2 debuff
 
-1G. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) - 880.4 dps / 1061 aoe / 916.6 t2 debuff
-
-//
+1G. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) - 1077 dps / 1269.4 aoe / 1129.3 t2 debuff
 
 1H. [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) - 923.6 dps / 1135.6 aoe / 960.2 t2 debuff
 
