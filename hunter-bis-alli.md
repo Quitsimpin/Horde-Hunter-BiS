@@ -77,7 +77,9 @@ Phase 4
 1F. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) - 885.5 dps / 1073.3 aoe / 921.8 t2 debuff
 
 1G. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) - 880.4 dps / 1061 aoe / 916.6 t2 debuff
+
 //
+
 1H. [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) - 923.6 dps / 1135.6 aoe / 960.2 t2 debuff
 
 1I. [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) - 923.3 dps / 1135.2 aoe / 960 t2 debuff
