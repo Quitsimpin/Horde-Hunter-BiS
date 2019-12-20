@@ -62,7 +62,7 @@ J. [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) -  852.
 
 Phase 4
 ---
-- Assuming +15% agility from Spirit of Zandalar
+- Assuming +15% agility from Spirit of Zandalar from here on
 
 A. [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) - 964.4 dps / 1119 aoe / 928.4 no debuff
 
