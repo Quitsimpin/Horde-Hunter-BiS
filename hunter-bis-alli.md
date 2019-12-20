@@ -84,6 +84,9 @@ I. [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRi
 
 J. [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) - 922.8 dps / 1134.7 aoe / 959.4 t2 debuff
 
+Phase 5
+---
+
 
 Melee weave rotation
 ===
