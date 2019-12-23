@@ -86,6 +86,11 @@ J. [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn
 
 Phase 5
 ---
+[True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) - 985.8 dps / 1178 aoe / 950.8 no debuff
+
+[Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) - 979.6 dps / 1126.6 aoe / 944.7 no debuff
+
+[Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) - 977.6 dps / 1167.6 aoe / 942.6 no debuff
 
 
 Melee weave rotation
