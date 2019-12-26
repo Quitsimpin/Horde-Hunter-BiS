@@ -92,6 +92,8 @@ Phase 5
 
 [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) - 977.6 dps / 1167.6 aoe / 942.6 no debuff
 
+[Realistic, R12 mix](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) - 974.1 dps / 1169.6 aoe / 1010 t2 debuff
+
 [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) - 971.8 dps / 1166.7 aoe / 1007.2 t2 debuff
  
 [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGseYc) - 968.6 dps / 1162.6 aoe / 1004.1 t2 debuff
