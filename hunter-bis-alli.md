@@ -65,9 +65,9 @@ Phase 4
 ---
 - Assuming +15% agility from Spirit of Zandalar from here on
 
-A. [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) - 964.4 dps / 1119 aoe / 928.4 no debuff
+A. [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) - 964.4 dps / 1164.4 aoe / 928.4 no debuff
 
-B. [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) - 957.8 dps / 1110.4 aoe / 921.7 no debuff
+B. [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) - 957.8 dps / 1156 aoe / 921.7 no debuff
 
 C. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) - 950.7 dps / 1153.7 aoe / 987.2 t2 debuff
 
