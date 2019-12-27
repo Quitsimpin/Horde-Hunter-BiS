@@ -37,6 +37,7 @@ F. [Realistic, 5/8 T1, R12](https://sixtyupgrades.com/set/b3hXX1XVS3DnBchr2LXUKW
 Phase 3
 ---
 - Sets without 3/8 T2 assume that the bonus can be snapshotted and used.
+- Sets with full T2 include the debuff as part of its total dps.
 - Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting.
 - Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
 
