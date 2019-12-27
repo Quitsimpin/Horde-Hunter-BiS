@@ -100,8 +100,16 @@ Phase 5
 
 Phase 6
 ---
-[True](https://sixtyupgrades.com/set/4MPbXFA2cZGYF2SzVxq2ET) - 1089.3 dps / 1308.5 aoe
+[True](https://sixtyupgrades.com/set/4MPbXFA2cZGYF2SzVxq2ET) - 1089.3 dps
 
 Melee weave rotation
 ===
 Phase 3
+---
+
+
+Phase 6
+---
+[True](https://sixtyupgrades.com/set/sgwbyqWMVMVJLHTNw9LhFY) - 1193 dps
+
+[Realistic](https://sixtyupgrades.com/set/45b7DqxP3ZzDK3tpKHFAmq) - 1187.8 dps
