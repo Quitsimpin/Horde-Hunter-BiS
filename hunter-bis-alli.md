@@ -117,7 +117,7 @@ Key differences for gear configurations:
 * Melee weapon progression is very streamlined and inflexible, and none of the weapons have hit. Barbarous Blade -> Arcanite Reaper -> Ashkandi -> Barb of the Sand Reaver -> Eye of Nerub
 * Agility weight relative to AP is lower than for pure ranged.
 * Hit is now split into 2 parts, where the ranged hit scope & ranged weapon skill is a little less valuable than regular hit, and you can still get some value from melee hit past the ranged cap.
-
+* Strength is worth a small amount.
 
 Phase 3
 ---
