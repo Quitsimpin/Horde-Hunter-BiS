@@ -98,6 +98,10 @@ Phase 5
  
 [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGseYc) - 968.6 dps / 1162.6 aoe / 1004.1 t2 debuff
 
+Phase 6
+---
+[True](https://sixtyupgrades.com/set/4MPbXFA2cZGYF2SzVxq2ET) - 1089.3 dps / 1308.5 aoe
+
 Melee weave rotation
 ===
 Phase 3
