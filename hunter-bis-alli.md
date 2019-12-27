@@ -91,25 +91,25 @@ L. [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn
 
 Phase 5
 ---
-[True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) - 985.8 dps / 1178 aoe / 950.8 no debuff
+A. [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) - 985.8 dps / 1178 aoe / 950.8 no debuff
 
-[Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) - 979.6 dps / 1169.6 aoe / 944.7 no debuff
+B. [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) - 979.6 dps / 1169.6 aoe / 944.7 no debuff
 
-[Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) - 977.6 dps / 1167.6 aoe / 942.6 no debuff
+C. [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) - 977.6 dps / 1167.6 aoe / 942.6 no debuff
 
-[Realistic, R12 mix](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) - 974.1 dps / 1169.6 aoe / 1010 t2 debuff
+D. [Realistic, R12 mix](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) - 974.1 dps / 1169.6 aoe / 1010 t2 debuff
 
-[Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) - 971.8 dps / 1166.7 aoe / 1007.2 t2 debuff
+E. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) - 971.8 dps / 1166.7 aoe / 1007.2 t2 debuff
  
-[Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGseYc) - 968.6 dps / 1162.6 aoe / 1004.1 t2 debuff
+F. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGseYc) - 968.6 dps / 1162.6 aoe / 1004.1 t2 debuff
 
 Phase 6
 ---
-[True, T3](https://sixtyupgrades.com/set/4MPbXFA2cZGYF2SzVxq2ET) - 1093.5 dps
+A. [True, T3](https://sixtyupgrades.com/set/4MPbXFA2cZGYF2SzVxq2ET) - 1093.5 dps
 
-[Realistic, T3](https://sixtyupgrades.com/set/umhuhtBzkD1BBCqx4cBcou) - 1090.7 dps
+B. [Realistic, T3](https://sixtyupgrades.com/set/umhuhtBzkD1BBCqx4cBcou) - 1090.7 dps
 
-[Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) - 1045.5 dps
+C. [Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) - 1045.5 dps
 
 - If you have 1 or 2 hunters, they should be in T3. If you have 3+ hunters and no debuff limitations, you should have 1 T3 hunter and the rest in T2 for maximum raid dps.
 
