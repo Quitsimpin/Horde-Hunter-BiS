@@ -100,7 +100,13 @@ Phase 5
 
 Phase 6
 ---
-[True](https://sixtyupgrades.com/set/4MPbXFA2cZGYF2SzVxq2ET) - 1089.3 dps
+[True, T3](https://sixtyupgrades.com/set/4MPbXFA2cZGYF2SzVxq2ET) - 1093.5 dps
+
+[Realistic, T3](https://sixtyupgrades.com/set/umhuhtBzkD1BBCqx4cBcou) - 1090.7 dps
+
+[Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) - 1045.5 dps
+
+- If you have 1 or 2 hunters, they should be in T3. If you have 3+ hunters and no debuff limitations, you should have 1 T3 hunter and the rest in T2 for maximum raid dps.
 
 Melee weave rotation
 ===
