@@ -41,11 +41,11 @@ Phase 3
 - Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting.
 - Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
 
-A. [True, T2](https://sixtyupgrades.com/set/aZ94fKMhQxCaZNr4xG4D1f) - 894.6 dps / 1033.4 aoe / 858.7 no debuff
+A. [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) - 894.7 dps / 1078.9 aoe / 859 no debuff
 
-B. [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) - 887.6 dps / 1025.2 aoe / 852.2 no debuff
+B. [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) - 887.6 dps / 1069.9 aoe / 852.2 no debuff
 
-C. [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) - 882.4 dps / 1018.8 aoe / 847.2 no debuff
+C. [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) - 882.4 dps / 1063.3 aoe / 847.2 no debuff
 
 D. [True, R14](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) - 882.2 dps / 1069.1 aoe / 918.3 t2 debuff
 
