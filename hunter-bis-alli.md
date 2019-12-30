@@ -114,7 +114,7 @@ C. [Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) - 1045.
 Melee weave rotation
 ===
 Key differences for gear configurations:
-* Melee weapon progression is very streamlined and inflexible, and most of the weapons have no hit. Barbarous Blade -> Arcanite Reaper -> Ashkandi -> Barb of the Sand Reaver -> Eye of Nerub
+* Melee weapon progression is very streamlined and inflexible, and most of the weapons have no hit. **Barbarous Blade -> Arcanite Reaper -> Ashkandi -> Barb of the Sand Reaver -> Eye of Nerub**
 * Agility weight relative to AP is lower than for pure ranged.
 * Hit is now split into 2 parts, where the ranged hit scope & ranged weapon skill is a little less valuable than regular hit, and you can still get some value from melee hit past the ranged cap.
 * Strength is worth a small amount.
@@ -122,15 +122,23 @@ Key differences for gear configurations:
 
 Pre-raid
 ---
-No difference except that the Trueaim set falls a little further behind the Devilsaur set
+- No difference except that the Trueaim set falls a little further behind the Devilsaur set, and you can upgrade Barb Blade to Arcanite Reaper if you're willing to spend the money.
 
 Phase 2.5
 ---
-
+- Cape of the Black Baron beats Cloak of the Shrouded Mists due to the change in agi weighting, until you have Zandalar buff in p4+.
 
 Phase 3
 ---
+- Get Ashjre'thul and Ashkandi by any means necessary. 
 
+Phase 4
+---
+- If you can't get your hands on Ashkandi, Zinrokh is a decent alternative (~3 less dps)
+- The +7 Scope sets listed above now barely edge out Hit Scope sets, since you gain melee hit.
+
+Phase 5
+---
 
 Phase 6
 ---
