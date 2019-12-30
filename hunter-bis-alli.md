@@ -119,6 +119,15 @@ Key differences for gear configurations:
 * Hit is now split into 2 parts, where the ranged hit scope & ranged weapon skill is a little less valuable than regular hit, and you can still get some value from melee hit past the ranged cap.
 * Strength is worth a small amount.
 
+
+Pre-raid
+---
+No difference except that the Trueaim set falls a little further behind the Devilsaur set
+
+Phase 2.5
+---
+
+
 Phase 3
 ---
 
