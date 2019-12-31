@@ -21,7 +21,7 @@ C. [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) - 
 
 Phase 2.5
 ---
-A. [True, R14](https://sixtyupgrades.com/set/7wKbawFECYK7vVucFTzGKe) - 832.8 dps / 993.9 aoe
+A. [True, R13](https://sixtyupgrades.com/set/7wKbawFECYK7vVucFTzGKe) - 841.1 dps / 1004.7 aoe
 
 B. [True, 5/8 T1, R12](https://sixtyupgrades.com/set/enzMBKJVDdj8mM2jAZnkPa) - 824.8 dps / 983.8 aoe
 
@@ -91,9 +91,9 @@ Phase 5
 ---
 A. [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) - 985.8 dps / 1178 aoe / 950.8 no debuff
 
-B. [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) - 979.6 dps / 1169.6 aoe / 944.7 no debuff
+B. [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) - 980.6 dps / 1171.4 aoe / 945.7 no debuff
 
-C. [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) - 977.6 dps / 1167.6 aoe / 942.6 no debuff
+C. [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) - 979.6 dps / 1169.6 aoe / 944.7 no debuff
 
 D. [Realistic, R12 mix](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) - 974.1 dps / 1169.6 aoe / 1010 t2 debuff
 
