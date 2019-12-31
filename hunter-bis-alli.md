@@ -143,14 +143,13 @@ A. [True, T2](https://sixtyupgrades.com/set/7gQRUWN5PTbDvVXur1xjEt) - 1078.2 dps
 
 B. [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) - 1068.1 dps / 1256.9 aoe / 1034.2 no debuff
 
-C. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) - 1066.8 dps / 1254.2 aoe / 1096.2 t2 debuff
+C. [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) - 1066.1 dps / 1254.1 aoe / 1032.4 no debuff
 
-D. [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) - 1066.1 dps / 1254.1 aoe / 1032.4 no debuff
+D. [Realistic, R12 mix, Hit Scope](https://sixtyupgrades.com/set/btTZigbQZPfttqYJ7b9WVq) - 1066 dps / 1259.6 aoe / 1100.8 t2 debuff
 
+E. [Realistic, R12 mix, +7 Scope](https://sixtyupgrades.com/set/exnsdwJe6vdB2uw6GwnZfc) - 1064.8 dps / 1257.6 aoe / 1099.5 t2 debuff
 
-E. [Realistic, R12 mix, Hit Scope](https://sixtyupgrades.com/set/btTZigbQZPfttqYJ7b9WVq) - 1066 dps / 1259.6 aoe / 1100.8 t2 debuff
-
-F. [Realistic, R12 mix, +7 Scope](https://sixtyupgrades.com/set/exnsdwJe6vdB2uw6GwnZfc) - 1064.8 dps / 1257.6 aoe / 1099.5 t2 debuff
+F. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) - 1063.4 dps / 1255.9 aoe / 1097.6 t2 debuff
 
 G. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) - 1061.4 dps / 1253.7 aoe / 1095.7 t2 debuff
 
