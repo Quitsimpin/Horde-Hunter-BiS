@@ -114,10 +114,10 @@ C. [Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) - 1045.
 Melee weave rotation
 ===
 Key differences for gear configurations:
-* Melee weapon progression is very streamlined and inflexible, and most of the weapons have no hit. **Barbarous Blade -> Arcanite Reaper -> Ashkandi -> Barb of the Sand Reaver -> Eye of Nerub**
+* Melee weapon progression is very streamlined and inflexible, and you aren't getting 2% hit from BiS weapons in p5-6. **Barbarous Blade -> Arcanite Reaper -> Ashkandi -> Barb of the Sand Reaver -> Eye of Nerub**
 * Agility weight relative to AP is lower than for pure ranged.
 * Hit is now split into 2 parts, where the ranged hit scope & ranged weapon skill is a little less valuable than regular hit, and you can still get some value from melee hit past the ranged cap.
-* Strength is worth a small amount.
+* Strength is worth a small amount. (7 str ~= 1 AP)
 
 
 Pre-raid
@@ -130,15 +130,28 @@ Phase 2.5
 
 Phase 3
 ---
-- Get Ashjre'thul and Ashkandi by any means necessary. 
+- Get Ashjre'thul and Ashkandi by any means necessary.
 
 Phase 4
 ---
-- If you can't get your hands on Ashkandi, Zinrokh is a decent alternative (~3 less dps)
+- If you can't get your hands on Ashkandi, Zin'rokh is a decent alternative (~3 less dps)
 - The +7 Scope sets listed above now barely edge out Hit Scope sets, since you gain melee hit.
 
 Phase 5
 ---
+A. [True, T2](https://sixtyupgrades.com/set/7gQRUWN5PTbDvVXur1xjEt) - 1078.2 dps / 1268.4 aoe / 1044.4 no debuff
+
+B. [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) - 1068.1 dps / 1256.9 aoe / 1034.2 no debuff
+
+C. [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) - 1066.1 dps / 1254.1 aoe / 1032.4 no debuff
+
+F. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) - 1066.8 dps / 1254.2 aoe / 1096.2 t2 debuff
+
+D. [Realistic, R12 mix, Hit Scope](https://sixtyupgrades.com/set/btTZigbQZPfttqYJ7b9WVq) - 1066 dps / 1259.6 aoe / 1100.8 t2 debuff
+
+E. [Realistic, R12 mix, +7 Scope](https://sixtyupgrades.com/set/exnsdwJe6vdB2uw6GwnZfc) - 1064.8 dps / 1257.6 aoe / 1099.5 t2 debuff
+
+G. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) - 1061.4 dps / 1253.7 aoe / 1095.7 t2 debuff
 
 Phase 6
 ---
