@@ -139,6 +139,8 @@ Phase 4
 
 Phase 5
 ---
+- If Sentinel's Chains Leggings isn't released yet, replacing it for T2 legs in D & E subtracts 2.8 dps.
+
 A. [True, T2](https://sixtyupgrades.com/set/7gQRUWN5PTbDvVXur1xjEt) - 1078.2 dps / 1268.4 aoe / 1044.4 no debuff
 
 B. [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) - 1068.1 dps / 1256.9 aoe / 1034.2 no debuff
