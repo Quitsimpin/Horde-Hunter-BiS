@@ -45,7 +45,7 @@ B. [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho
 
 C. [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) - 882.4 dps / 1063.3 aoe / 847.2 no debuff
 
-D. [True, R14](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) - 882.2 dps / 1069.1 aoe / 918.3 t2 debuff
+D. [True, R13](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) - 880.3 dps / 1069.1 aoe / 918.3 t2 debuff
 
 E. [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) - 867.8 dps / 1050.7 aoe / 903.9 t2 debuff
 
