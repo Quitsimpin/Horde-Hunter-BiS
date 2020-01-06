@@ -111,8 +111,6 @@ B. [Realistic, T3](https://sixtyupgrades.com/set/umhuhtBzkD1BBCqx4cBcou) - 1090.
 
 C. [Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) - 1045.5 dps
 
-- If you have 1 or 2 hunters, they should be in T3. If you have 3+ hunters and no debuff limitations, you should have 1 T3 hunter and the rest in T2 for maximum raid dps.
-
 Melee weave rotation
 ===
 Key differences for gear configurations:
