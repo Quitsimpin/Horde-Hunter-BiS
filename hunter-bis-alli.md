@@ -69,7 +69,7 @@ B. [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) - 957.8
 
 C. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) - 950.7 dps / 1153.7 aoe / 987.2 t2 debuff
 
-D. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) - 944.5 dps / 1145.6 aoe / 981.1 t2 debuff
+D. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) - 945.8 dps / 1145.6 aoe / 981.1 t2 debuff
 
 E. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) - 943.9 dps / 1145.1 aoe / 980.5 t2 debuff
 
