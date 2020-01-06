@@ -116,7 +116,7 @@ Melee weave rotation
 Key differences for gear configurations:
 * Melee weapon progression is very streamlined and inflexible, and you aren't getting 2% hit from BiS weapons in p5-6. **Barbarous Blade -> Arcanite Reaper -> Ashkandi -> Barb of the Sand Reaver -> Eye of Nerub**
 * Agility weight relative to AP is lower than for pure ranged.
-* Hit is now split into 2 parts, where the ranged hit scope & ranged weapon skill are a bit less valuable than regular hit, and you can still get some value from melee hit past the ranged cap.
+* Hit is now split into 2 parts, where the ranged hit scope & ranged weapon skill are a bit less valuable than regular hit, and you can still get some value from melee hit past the ranged cap. (e.g. 28 AP per hit = 24 per ranged hit + 4 per melee hit) 
 * Strength is worth a small amount. (7 str ~= 1 AP)
 
 
