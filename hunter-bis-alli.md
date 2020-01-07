@@ -38,6 +38,7 @@ Phase 3
 - Sets with full T2 include the debuff as part of its total dps.
 - Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting.
 - Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
+- If T2 debuff is replacing the slot for Hunter's Mark, the dps benefit is greatly reduced
 
 A. [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) - 894.7 dps / 1078.9 aoe / 859 no debuff
 
