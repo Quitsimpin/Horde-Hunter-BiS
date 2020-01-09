@@ -12,25 +12,22 @@ Pre-raid
 ---
 - I am not including PvP ranking gear as "pre-raid".
 
-A. [True, Hit Scope](https://sixtyupgrades.com/set/8yTYGRgV14Ubc5jHeJYfSm) - 754.5 dps
+A. [True, Hit Scope](https://sixtyupgrades.com/set/8yTYGRgV14Ubc5jHeJYfSm) - 714.2 dps
 
-B. [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) - 747 dps
+B. [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) - 710.2 dps
 
-C. [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) - 745.5 dps
+C. [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) - 706.7 dps
 
 
 Phase 2.5
 ---
-A. [True, R13](https://sixtyupgrades.com/set/7wKbawFECYK7vVucFTzGKe) - 841.1 dps / 1004.7 aoe
+A. [True, R13](https://sixtyupgrades.com/set/7wKbawFECYK7vVucFTzGKe) - 808 dps / 974.6 aoe
 
-B. [True, 5/8 T1, R12](https://sixtyupgrades.com/set/enzMBKJVDdj8mM2jAZnkPa) - 824.8 dps / 983.8 aoe
+B. [True, 5/8 T1, R12](https://sixtyupgrades.com/set/enzMBKJVDdj8mM2jAZnkPa) - 791.1 dps / 953.2 aoe
 
-C. [True, T1](https://sixtyupgrades.com/set/d7XzEiMbMqCcfxa6kP6ZiT) - 824.1 dps / 996.6 aoe
+C. [True, T1](https://sixtyupgrades.com/set/d7XzEiMbMqCcfxa6kP6ZiT) - 790.4 dps / 966.3 aoe
 
-D. [Realistic, T1](https://sixtyupgrades.com/set/62RHLhx4rgPieNs7rfeAGW) - 818.2 dps / 989 aoe
-
-E. [Realistic, 5/8 T1, R12](https://sixtyupgrades.com/set/b3hXX1XVS3DnBchr2LXUKW) - 817.3 dps / 974.4 aoe
-
+D. [Realistic, T1](https://sixtyupgrades.com/set/62RHLhx4rgPieNs7rfeAGW) - 784.4 dps / 958.5 aoe
 
 Phase 3
 ---
