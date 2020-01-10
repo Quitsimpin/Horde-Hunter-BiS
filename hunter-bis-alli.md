@@ -56,45 +56,32 @@ Phase 4
 ---
 - Assuming +15% agility from Spirit of Zandalar from here on
 
-A. [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) - 964.4 dps / 1164.4 aoe / 928.4 no debuff
-
-B. [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) - 957.8 dps / 1156 aoe / 921.7 no debuff
-
-C. [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) - 950.7 dps / 1153.7 aoe / 987.2 t2 debuff
-
-D. [True, 4/8 T2, R12](https://sixtyupgrades.com/set/dpqGCRb327gE7FmHhjuQiK) - 948.1 dps / 1150.5 aoe / 985 t2 debuff
-
-E. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) - 945.8 dps / 1145.6 aoe / 981.1 t2 debuff
-
-F. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) - 943.9 dps / 1145.1 aoe / 980.5 t2 debuff
-
-G. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) - 943.2 dps / 1143.9 aoe / 980.1 t2 debuff
-
-H. [Realistic, 4/8 T2, R12, Wristguards](https://sixtyupgrades.com/set/pBFrKj3ToEQ4gKgyKwCaP7) - 941.2 dps / 1141.5 aoe / 978.2 t2 debuff
-
-I . [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/wE2zQFiVYYdcc77NjdhptS) - 941.2 dps / 1141.5 aoe / 978.2 t2 debuff
-
-J. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) - 935.4 dps / 1127.9 aoe / 972.2 t2 debuff
-
-K. [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) - 929.6 dps / 1143.5 aoe / 966.1 t2 debuff
-
-L. [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) - 923.3 dps / 1135.2 aoe / 960 t2 debuff
-
-M. [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) - 922.8 dps / 1134.7 aoe / 959.4 t2 debuff
+| ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
+| --- | --- | --- | --- | --- |
+| A | [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) | 964.4 | 1164.4 | 928.4 no debuff |
+| B | [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) | 957.8 | 1156 | 921.7 no debuff |
+| C | [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) | 950.7 | 1153.7 | 987.2 T2 debuff |
+| D | [True, 4/8 T2, R12](https://sixtyupgrades.com/set/dpqGCRb327gE7FmHhjuQiK) | 948.1 | 1150.5 | 985 T2 debuff |
+| E | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) | 945.8 | 1145.6 | 981.1 T2 debuff |
+| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) | 943.9 | 1145.1 | 980.5 T2 debuff |
+| G | [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) | 943.2 | 1143.9 | 980.1 T2 debuff |
+| H | [Realistic, 4/8 T2, R12, Wristguards](https://sixtyupgrades.com/set/pBFrKj3ToEQ4gKgyKwCaP7) |- 941.2 | 1141.5 | 978.2 T2 debuff |
+| I | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/wE2zQFiVYYdcc77NjdhptS) | 941.2 | 1141.5 | 978.2 T2 debuff |
+| J | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 935.4 | 1127.9 | 972.2 T2 debuff |
+| K | [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) | 929.6 | 1143.5 | 966.1 T2 debuff |
+| L | [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 923.3 | 1135.2 | 960 T2 debuff |
+| M | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) | 922.8 | 1134.7 | 959.4 T2 debuff |
 
 Phase 5
 ---
-A. [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) - 985.8 dps / 1178 aoe / 950.8 no debuff
-
-B. [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) - 980.6 dps / 1171.4 aoe / 945.7 no debuff
-
-C. [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) - 979.6 dps / 1169.6 aoe / 944.7 no debuff
-
-D. [Realistic, R12 mix](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) - 974.1 dps / 1169.6 aoe / 1010 t2 debuff
-
-E. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) - 971.8 dps / 1166.7 aoe / 1007.2 t2 debuff
- 
-F. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGseYc) - 968.6 dps / 1162.6 aoe / 1004.1 t2 debuff
+| ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
+| --- | --- | --- | --- | --- |
+| A | [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) | 985.8 | 1178 | 950.8 no debuff |
+| B | [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 980.6 | 1171.4 | 945.7 no debuff |
+| C | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 979.6 | 1169.6 | 944.7 no debuff |
+| D | [Realistic, R12 mix](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) | 974.1 | 1169.6 | 1010 T2 debuff |
+| E | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) | 971.8 | 1166.7 | 1007.2 T2 debuff | 
+| F | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGseYc) | 968.6 | 1162.6 | 1004.1 T2 debuff |
 
 Phase 6
 ---
