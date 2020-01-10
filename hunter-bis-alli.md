@@ -32,7 +32,7 @@ Phase 3
 ---
 - Sets without 3/8 T2 assume that the bonus can be snapshotted and used.
 - Sets with full T2 include the debuff as part of its total dps.
-- Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting.
+- Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting. If you do get Nefarian's head, choosing the neck from the quest will last you much longer for PvP.
 - Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
 - If T2 debuff is replacing the slot for Hunter's Mark, the dps benefit is greatly reduced (to ~15 dps)
 
