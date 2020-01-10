@@ -37,25 +37,31 @@ Phase 3
 - Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
 - If T2 debuff is replacing the slot for Hunter's Mark, the dps benefit is greatly reduced
 
-A. [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) - 894.7 dps / 1078.9 aoe / 859 no debuff
+A. [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) - 862.3 dps / 1050.1 aoe / 825.9 no debuff
 
-B. [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) - 887.6 dps / 1069.9 aoe / 852.2 no debuff
+B. [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) - 857.5 dps / 1044 aoe / 821.1 no debuff
 
-C. [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) - 882.4 dps / 1063.3 aoe / 847.2 no debuff
+C. [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) - 849.7 dps / 1034.1 aoe / 813.9 no debuff
 
-D. [True, R13](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) - 880.3 dps / 1069.1 aoe / 918.3 t2 debuff
+D. [True, R13](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) - 847.6 dps / 1037.5 aoe / 884.5 t2 debuff
 
-E. [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) - 867.8 dps / 1050.7 aoe / 903.9 t2 debuff
+E. [True, 5/8 T2, R12](https://sixtyupgrades.com/set/8HNxjEhVzT6rkyQKUPW44b) - 846.2 dps / 1035.8 aoe / 883.4 t2 debuff
 
-F. [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) - 864.9 dps / 1041.3 aoe / 901 t2 debuff
+E. [Realistic, R13](https://sixtyupgrades.com/set/uQRDm9MgkRWA2HAZMCBaGY) - 837.3 dps / 1024.4 aoe / 873.8 t2 debuff
 
-G. [True, T1](https://sixtyupgrades.com/set/2zGBs9vd8eVU2M8mRCVTFg) - 862.8 dps / 1060 aoe / 899 t2 debuff
+F. [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) - 834.8 dps / 1021.3 aoe / 871.7 t2 debuff
 
-H. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) - 862.7 dps / 1044.2 aoe / 898.6 t2 debuff
+G. [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) - 831.9 dps / 1011.7 aoe / 868.7 t2 debuff
 
-I. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) - 859.9 dps / 1034.9 aoe / 895.7 t2 debuff
+H. [True, T1, +7 Scope](https://sixtyupgrades.com/set/2zGBs9vd8eVU2M8mRCVTFg) - 829.8 dps / 1030.8 aoe / 866.7 t2 debuff
 
-J. [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) -  852.8 dps / 1046.7 aoe / 888.7 t2 debuff
+I. [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) - 829.7 dps / 1014.7 aoe / 866.3 t2 debuff
+
+J. [True, T1, Hit Scope](https://sixtyupgrades.com/set/6x7mnwR5tMoHD241HVL83P) - 829.6 dps / 1030.6 aoe / 866.8 t2 debuff
+
+K. [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) - 826.8 dps / 1005.2 aoe / 863.3 t2 debuff
+
+L. [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) - 815.4 dps / 1011.8 aoe / 852 t2 debuff
 
 Phase 4
 ---
