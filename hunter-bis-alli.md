@@ -16,18 +16,17 @@ Pre-raid
 | --- | --- | --- |
 | A | [True, Hit Scope](https://sixtyupgrades.com/set/8yTYGRgV14Ubc5jHeJYfSm) | 714.2 |
 | B | [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) | 710.2 |
-| C | [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 706.7 dps |
+| C | [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 706.7 |
 
 
 Phase 2.5
 ---
-A. [True, R13](https://sixtyupgrades.com/set/7wKbawFECYK7vVucFTzGKe) - 808 dps / 974.6 aoe
-
-B. [True, 5/8 T1, R12](https://sixtyupgrades.com/set/enzMBKJVDdj8mM2jAZnkPa) - 791.1 dps / 953.2 aoe
-
-C. [True, T1](https://sixtyupgrades.com/set/d7XzEiMbMqCcfxa6kP6ZiT) - 790.4 dps / 966.3 aoe
-
-D. [Realistic, T1](https://sixtyupgrades.com/set/62RHLhx4rgPieNs7rfeAGW) - 784.4 dps / 958.5 aoe
+| ID | Gear set | DPS | AoE DPS |
+| --- | --- | --- | --- |
+| A | [True, R13](https://sixtyupgrades.com/set/7wKbawFECYK7vVucFTzGKe) | 808 | 974.6 |
+| B | [True, 5/8 T1, R12](https://sixtyupgrades.com/set/enzMBKJVDdj8mM2jAZnkPa) | 791.1 dps | 953.2 aoe|
+| C | [True, T1](https://sixtyupgrades.com/set/d7XzEiMbMqCcfxa6kP6ZiT) | 790.4 dps | 966.3 aoe |
+| D | [Realistic, T1](https://sixtyupgrades.com/set/62RHLhx4rgPieNs7rfeAGW) | 784.4 dps | 958.5 aoe |
 
 Phase 3
 ---
