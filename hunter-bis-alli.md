@@ -74,6 +74,8 @@ Phase 4
 
 Phase 5
 ---
+- Multi-shot and Aspect of the Hawk rank up
+
 | ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
 | --- | --- | --- | --- | --- |
 | A | [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) | 985.8 | 1178 | 950.8 no debuff |
