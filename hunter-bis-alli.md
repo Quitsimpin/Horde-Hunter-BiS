@@ -11,6 +11,7 @@ Normal Ranged rotation
 Pre-raid
 ---
 - I am not including PvP ranking gear as "pre-raid".
+
 | ID | Gear set | DPS |
 | --- | --- | --- |
 | A | [True, Hit Scope](https://sixtyupgrades.com/set/8yTYGRgV14Ubc5jHeJYfSm) | 714.2 |
