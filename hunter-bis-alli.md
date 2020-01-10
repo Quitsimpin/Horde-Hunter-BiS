@@ -98,11 +98,11 @@ F. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGs
 
 Phase 6
 ---
-A. [True, T3](https://sixtyupgrades.com/set/4MPbXFA2cZGYF2SzVxq2ET) - 1093.5 dps
-
-B. [Realistic, T3](https://sixtyupgrades.com/set/umhuhtBzkD1BBCqx4cBcou) - 1090.7 dps
-
-C. [Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) - 1045.5 dps
+| ID | Gear set | DPS |
+| --- | --- | --- |
+| A | [True, T3](https://sixtyupgrades.com/set/4MPbXFA2cZGYF2SzVxq2ET) | 1093.5 |
+| B | [Realistic, T3](https://sixtyupgrades.com/set/umhuhtBzkD1BBCqx4cBcou) | 1090.7 |
+| C | [Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) | 1045.5 |
 
 Melee weave rotation
 ===
@@ -150,6 +150,7 @@ G. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8W
 
 Phase 6
 ---
-[True](https://sixtyupgrades.com/set/sgwbyqWMVMVJLHTNw9LhFY) - 1193 dps
-
-[Realistic](https://sixtyupgrades.com/set/45b7DqxP3ZzDK3tpKHFAmq) - 1187.8 dps
+| ID | Gear set | DPS |
+| --- | --- | --- |
+| A | [True](https://sixtyupgrades.com/set/sgwbyqWMVMVJLHTNw9LhFY) | 1193 |
+| B | [Realistic](https://sixtyupgrades.com/set/45b7DqxP3ZzDK3tpKHFAmq) | 1187.8 |
