@@ -38,11 +38,11 @@ Phase 3
 
 | ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
 | --- | --- | --- | --- | --- |
-| A | [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) | 862.3 | 1050.1 aoe | 825.9 no debuff |
-| B | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) | 857.5 dps | 1044 aoe | 821.1 no debuff |
-| C | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 849.7 dps | 1034.1 aoe | 813.9 no debuff |
-| D | [True, R13](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) | 847.6 dps | 1037.5 aoe | 884.5 T2 debuff |
-| E | [True, 5/8 T2, R12](https://sixtyupgrades.com/set/8HNxjEhVzT6rkyQKUPW44b) | 846.2 dps | 1035.8 aoe | 883.4 T2 debuff |
+| A | [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) | 862.3 | 1050.1 | 825.9 no debuff |
+| B | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) | 857.5 | 1044 | 821.1 no debuff |
+| C | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 849.7 | 1034.1 | 813.9 no debuff |
+| D | [True, R13](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) | 847.6 | 1037.5 | 884.5 T2 debuff |
+| E | [True, 5/8 T2, R12](https://sixtyupgrades.com/set/8HNxjEhVzT6rkyQKUPW44b) | 846.2 | 1035.8 | 883.4 T2 debuff |
 | F | [Realistic, R13](https://sixtyupgrades.com/set/uQRDm9MgkRWA2HAZMCBaGY) | 837.3 | 1024.4 | 873.8 T2 debuff |
 | G | [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) | 834.8 | 1021.3 | 871.7 T2 debuff |
 | H | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) | 831.9 | 1011.7 | 868.7 T2 debuff |
