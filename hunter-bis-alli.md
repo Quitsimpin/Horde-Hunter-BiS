@@ -11,12 +11,11 @@ Normal Ranged rotation
 Pre-raid
 ---
 - I am not including PvP ranking gear as "pre-raid".
-
-A. [True, Hit Scope](https://sixtyupgrades.com/set/8yTYGRgV14Ubc5jHeJYfSm) - 714.2 dps
-
-B. [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) - 710.2 dps
-
-C. [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) - 706.7 dps
+| ID | Gear set | DPS |
+| --- | --- | --- |
+| A | [True, Hit Scope](https://sixtyupgrades.com/set/8yTYGRgV14Ubc5jHeJYfSm) | 714.2 |
+| B | [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) | 710.2 |
+| C | [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 706.7 dps |
 
 
 Phase 2.5
