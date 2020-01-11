@@ -123,19 +123,15 @@ Phase 5
 ---
 - If Sentinel's Chains Leggings isn't released yet, replacing it for T2 legs in D & E subtracts 2.8 dps.
 
-A. [True, T2](https://sixtyupgrades.com/set/7gQRUWN5PTbDvVXur1xjEt) - 1078.2 dps / 1268.4 aoe / 1044.4 no debuff
-
-B. [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) - 1068.1 dps / 1256.9 aoe / 1034.2 no debuff
-
-C. [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) - 1066.1 dps / 1254.1 aoe / 1032.4 no debuff
-
-D. [Realistic, R12 mix, Hit Scope](https://sixtyupgrades.com/set/btTZigbQZPfttqYJ7b9WVq) - 1066 dps / 1259.6 aoe / 1100.8 t2 debuff
-
-E. [Realistic, R12 mix, +7 Scope](https://sixtyupgrades.com/set/exnsdwJe6vdB2uw6GwnZfc) - 1064.8 dps / 1257.6 aoe / 1099.5 t2 debuff
-
-F. [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) - 1063.4 dps / 1255.9 aoe / 1097.6 t2 debuff
-
-G. [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) - 1061.4 dps / 1253.7 aoe / 1095.7 t2 debuff
+| ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
+| --- | --- | --- | --- | --- |
+| A | [True, T2](https://sixtyupgrades.com/set/7gQRUWN5PTbDvVXur1xjEt) | 1078.2 | 1268.4 | 1044.4 no debuff |
+| B | [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) | 1068.1 | 1256.9 | 1034.2 no debuff |
+| C | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) | 1066.1 | 1254.1 | 1032.4 no debuff |
+| D | [Realistic, R12 mix, Hit Scope](https://sixtyupgrades.com/set/btTZigbQZPfttqYJ7b9WVq) | 1066 | 1259.6 | 1100.8 T2 debuff |
+| E | [Realistic, R12 mix, +7 Scope](https://sixtyupgrades.com/set/exnsdwJe6vdB2uw6GwnZfc) | 1064.8 | 1257.6 | 1099.5 T2 debuff |
+| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) | 1063.4 | 1255.9 | 1097.6 T2 debuff |
+| G | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) | 1061.4 | 1253.7 | 1095.7 T2 debuff |
 
 Phase 6
 ---
