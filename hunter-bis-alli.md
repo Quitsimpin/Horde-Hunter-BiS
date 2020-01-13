@@ -82,7 +82,7 @@ Phase 4
 Phase 5
 ---
 - Multi-shot and Aspect of the Hawk rank up
-
+- If Sentinel's Chains Leggings isn't released yet, replacing it for T2 legs in D & E subtracts 2.8 dps.
 | ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
 | --- | --- | --- | --- | --- |
 | A | [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) | 950.8 | 1154.3 | 915.1 no debuff |
