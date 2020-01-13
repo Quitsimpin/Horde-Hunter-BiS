@@ -78,12 +78,13 @@ Phase 5
 
 | ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
 | --- | --- | --- | --- | --- |
-| A | [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) | 985.8 | 1178 | 950.8 no debuff |
-| B | [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 980.6 | 1171.4 | 945.7 no debuff |
-| C | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 979.6 | 1169.6 | 944.7 no debuff |
-| D | [Realistic, R12 mix](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) | 974.1 | 1169.6 | 1010 T2 debuff |
-| E | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) | 971.8 | 1166.7 | 1007.2 T2 debuff | 
-| F | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGseYc) | 968.6 | 1162.6 | 1004.1 T2 debuff |
+| A | [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) | 950.8 | 1154.3 | 915.1 no debuff |
+| B | [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 945.5 | 1147.5 | 909.9 no debuff |
+| C | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 944.5 | 1146.3 | 908.9 no debuff |
+| D | [Realistic, R12 mix, +7 Scope](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) | 939.2 | 1146.5 | 975.8 T2 debuff |
+| E | [Realistic, R12 mix, Hit Scope](https://sixtyupgrades.com/set/qLZRDPuxxhQ1oJavEdCG9i) | 938.9 | 1146 | 975.5 T2 debuff |
+| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) | 937 | 1143.7 | 973.1 T2 debuff | 
+| G | [Realistic, T1](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 912.3 | 1129.5 | 948.3 T2 debuff |
 
 Phase 6
 ---
