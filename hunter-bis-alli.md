@@ -58,19 +58,19 @@ Phase 4
 
 | ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
 | --- | --- | --- | --- | --- |
-| A | [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) | 964.4 | 1164.4 | 928.4 no debuff |
-| B | [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) | 957.8 | 1156 | 921.7 no debuff |
-| C | [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) | 950.7 | 1153.7 | 987.2 T2 debuff |
-| D | [True, 4/8 T2, R12](https://sixtyupgrades.com/set/dpqGCRb327gE7FmHhjuQiK) | 948.1 | 1150.5 | 985 T2 debuff |
-| E | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) | 945.8 | 1145.6 | 981.1 T2 debuff |
-| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) | 943.9 | 1145.1 | 980.5 T2 debuff |
-| G | [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) | 943.2 | 1143.9 | 980.1 T2 debuff |
-| H | [Realistic, 4/8 T2, R12, Wristguards](https://sixtyupgrades.com/set/pBFrKj3ToEQ4gKgyKwCaP7) | 941.2 | 1141.5 | 978.2 T2 debuff |
-| I | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/wE2zQFiVYYdcc77NjdhptS) | 941.2 | 1141.5 | 978.2 T2 debuff |
-| J | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 935.4 | 1127.9 | 972.2 T2 debuff |
-| K | [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) | 929.6 | 1143.5 | 966.1 T2 debuff |
-| L | [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 923.3 | 1135.2 | 960 T2 debuff |
-| M | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) | 922.8 | 1134.7 | 959.4 T2 debuff |
+| A | [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) | 923.1 | 1127 | 886.4 no debuff |
+| B | [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) | 916.4 | 1118.4 | 879.6 no debuff |
+| C | [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) | 909.1 | 1116 | 946.4 T2 debuff |
+| D | [True, 4/8 T2, R12](https://sixtyupgrades.com/set/dpqGCRb327gE7FmHhjuQiK) | 906.8 | 1112.8 | 944.1 T2 debuff |
+| E | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) | 904.1 | 1109.5 | 941.4 T2 debuff |
+| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) | 902.2 | 1107.3 | 939.5 T2 debuff |
+| G | [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) | 901.5 | 1106.1 | 939.1 T2 debuff |
+| H | [Realistic, 4/8 T2, R12, Wristguards](https://sixtyupgrades.com/set/pBFrKj3ToEQ4gKgyKwCaP7) | 899.5 | 1103.6 | 937.2 T2 debuff |
+| I | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/wE2zQFiVYYdcc77NjdhptS) | 899.5 | 1103.6 | 937.2 T2 debuff |
+| J | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 893.6 | 1089.7 | 931.1 T2 debuff |
+| K | [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) | 887.6 | 1105.7 | 924.9 T2 debuff |
+| L | [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 882.6 | 1098.9 | 919.7 T2 debuff |
+| M | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) | 880.7 | 1096.7 | 918 T2 debuff |
 
 Phase 5
 ---
