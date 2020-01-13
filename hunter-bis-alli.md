@@ -8,15 +8,15 @@ Skinnay's Classic Hunter Gear lists (Alliance)
 
 Normal Ranged rotation
 ===
-Pre-raid
+Pre-raid P3
 ---
 - I am not including PvP ranking gear as "pre-raid".
 
 | ID | Gear set | DPS |
 | --- | --- | --- |
-| A | [True, Hit Scope](https://sixtyupgrades.com/set/8yTYGRgV14Ubc5jHeJYfSm) | 714.2 |
-| B | [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) | 710.2 |
-| C | [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 706.7 |
+| A | [True, Hit Scope](https://sixtyupgrades.com/set/cdgwxCbghC9LZpYPPYJhUi) | 735.1 |
+| B | [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 725.3 |
+| C | [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) | 723.6 |
 
 
 Phase 2.5
@@ -27,6 +27,13 @@ Phase 2.5
 | B | [True, 5/8 T1, R12](https://sixtyupgrades.com/set/enzMBKJVDdj8mM2jAZnkPa) | 791.1 | 953.2|
 | C | [True, T1](https://sixtyupgrades.com/set/d7XzEiMbMqCcfxa6kP6ZiT) | 790.4 | 966.3 |
 | D | [Realistic, T1](https://sixtyupgrades.com/set/62RHLhx4rgPieNs7rfeAGW) | 784.4 | 958.5 |
+
+
+Pre-raid 3
+---
+| ID | Gear set | DPS |
+| --- | --- | --- |
+| A | 
 
 Phase 3
 ---
