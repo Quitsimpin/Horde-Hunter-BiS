@@ -120,6 +120,7 @@ Phase 3
 Phase 4
 ---
 - If you can't get your hands on Ashkandi, Zin'rokh is a decent alternative (~3 less dps)
+- Swiftness of Zanza makes you weave faster and clip less.
 - The +7 Scope sets listed above now barely edge out Hit Scope sets, since you gain melee hit.
 
 Phase 5
@@ -138,5 +139,5 @@ Phase 6
 ---
 | ID | Gear set | DPS |
 | --- | --- | --- |
-| A | [True](https://sixtyupgrades.com/set/sgwbyqWMVMVJLHTNw9LhFY) | 1189.3 |
-| B | [Realistic](https://sixtyupgrades.com/set/45b7DqxP3ZzDK3tpKHFAmq) | 1183.9 |
+| A | [True](https://sixtyupgrades.com/set/sgwbyqWMVMVJLHTNw9LhFY) | 1211.5 |
+| B | [Realistic](https://sixtyupgrades.com/set/45b7DqxP3ZzDK3tpKHFAmq) | 1206 |
