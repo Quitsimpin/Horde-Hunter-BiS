@@ -29,13 +29,6 @@ Phase 2.5
 | C | [True, T1](https://sixtyupgrades.com/set/d7XzEiMbMqCcfxa6kP6ZiT) | 790.4 | 966.3 |
 | D | [Realistic, T1](https://sixtyupgrades.com/set/62RHLhx4rgPieNs7rfeAGW) | 784.4 | 958.5 |
 
-
-Pre-raid 3
----
-| ID | Gear set | DPS |
-| --- | --- | --- |
-| A | 
-
 Phase 3
 ---
 - Sets without 3/8 T2 assume that the bonus can be snapshotted and used.
