@@ -98,9 +98,9 @@ Phase 6
 ---
 | ID | Gear set | DPS |
 | --- | --- | --- |
-| A | [True, T3](https://sixtyupgrades.com/set/4MPbXFA2cZGYF2SzVxq2ET) | 1093.5 |
-| B | [Realistic, T3](https://sixtyupgrades.com/set/umhuhtBzkD1BBCqx4cBcou) | 1090.7 |
-| C | [Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) | 1045.5 |
+| A | [True, T3](https://sixtyupgrades.com/set/4MPbXFA2cZGYF2SzVxq2ET) | 1061.6 |
+| B | [Realistic, T3](https://sixtyupgrades.com/set/umhuhtBzkD1BBCqx4cBcou) | 1058.8 |
+| C | [Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) | 1013.1 |
 
 Melee weave rotation
 ===
@@ -144,5 +144,5 @@ Phase 6
 ---
 | ID | Gear set | DPS |
 | --- | --- | --- |
-| A | [True](https://sixtyupgrades.com/set/sgwbyqWMVMVJLHTNw9LhFY) | 1193 |
-| B | [Realistic](https://sixtyupgrades.com/set/45b7DqxP3ZzDK3tpKHFAmq) | 1187.8 |
+| A | [True](https://sixtyupgrades.com/set/sgwbyqWMVMVJLHTNw9LhFY) | 1189.3 |
+| B | [Realistic](https://sixtyupgrades.com/set/45b7DqxP3ZzDK3tpKHFAmq) | 1183.9 |
