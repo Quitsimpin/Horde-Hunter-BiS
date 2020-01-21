@@ -25,7 +25,6 @@ Phase 2.5
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
 | A | [True, R13](https://sixtyupgrades.com/set/7wKbawFECYK7vVucFTzGKe) | 808 | 974.6 |
-| B | [True, 5/8 T1, R12](https://sixtyupgrades.com/set/enzMBKJVDdj8mM2jAZnkPa) | 791.1 | 953.2|
 | C | [True, T1](https://sixtyupgrades.com/set/d7XzEiMbMqCcfxa6kP6ZiT) | 790.4 | 966.3 |
 | D | [Realistic, T1](https://sixtyupgrades.com/set/62RHLhx4rgPieNs7rfeAGW) | 784.4 | 958.5 |
 
