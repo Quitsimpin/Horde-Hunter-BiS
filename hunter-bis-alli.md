@@ -105,7 +105,7 @@ Key differences for gear configurations:
 
 Pre-raid
 ---
-- No difference except that the Trueaim set falls a little further behind the Devilsaur set, and you can upgrade Barb Blade to Arcanite Reaper if you're willing to spend the money.
+- No difference except that the Trueaim set falls a little further behind the Devilsaur set, and you can upgrade Barb Blade to Dreadforge Retaliator, or Arcanite Reaper if you're willing to spend the money.
 
 Phase 2.5
 ---
