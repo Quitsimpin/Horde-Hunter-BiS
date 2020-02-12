@@ -11,7 +11,7 @@ Normal Ranged rotation
 Pre-raid P3
 ---
 - I am not including PvP ranking gear as "pre-raid".
-- Dal'rends > Ribsplitter of Agility + Bone Slicing Hatchet > Bone Slicing Hatchet x2
+- Dal'rends > Ribsplitter of Agility > Bone Slicing Hatchet/Sentinel's Blade > Assassination Blade/Dawn's Edge
 
 | ID | Gear set | DPS |
 | --- | --- | --- |
