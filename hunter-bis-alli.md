@@ -15,9 +15,9 @@ Pre-raid P3
 
 | ID | Gear set | DPS |
 | --- | --- | --- |
-| A | [True, Hit Scope](https://sixtyupgrades.com/set/cdgwxCbghC9LZpYPPYJhUi) | 735.1 |
-| B | [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 725.3 |
-| C | [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) | 723.6 |
+| A | [True, Hit Scope](https://sixtyupgrades.com/set/cdgwxCbghC9LZpYPPYJhUi) | 786.9 |
+| B | [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) | 785.3 |
+| C | [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 784.4 |
 
 
 Phase 2.5
