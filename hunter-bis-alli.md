@@ -20,17 +20,9 @@ Pre-raid P3
 | C | [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 784.4 |
 
 
-Phase 2.5
----
-| ID | Gear set | DPS | AoE DPS |
-| --- | --- | --- | --- |
-| A | [True, R13](https://sixtyupgrades.com/set/7wKbawFECYK7vVucFTzGKe) | 808 | 974.6 |
-| C | [True, T1](https://sixtyupgrades.com/set/d7XzEiMbMqCcfxa6kP6ZiT) | 790.4 | 966.3 |
-| D | [Realistic, T1](https://sixtyupgrades.com/set/62RHLhx4rgPieNs7rfeAGW) | 784.4 | 958.5 |
-
 Phase 3
 ---
-- Sets without 3/8 T2 assume that the bonus can be snapshotted and used.
+- Sets without 3/8 T2 assume that the bonus can be snapshotted and used. **(This has been confirmed not to work; updates pending)**
 - Sets with full T2 include the debuff as part of its total dps.
 - Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting. If you do get Nefarian's head, choosing the neck from the quest will last you much longer for PvP.
 - Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
