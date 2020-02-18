@@ -22,27 +22,32 @@ Pre-raid P3
 
 Phase 3
 ---
-- Sets without 3/8 T2 assume that the bonus can be snapshotted and used. **(This has been confirmed not to work; updates pending)**
-- Sets with full T2 include the debuff as part of its total dps.
 - Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting. If you do get Nefarian's head, choosing the neck from the quest will last you much longer for PvP.
 - Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
-- If T2 debuff is replacing the slot for Hunter's Mark, the dps benefit is greatly reduced (to ~15 dps)
 
-| ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
-| --- | --- | --- | --- | --- |
-| A | [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) | 862.3 | 1050.1 | 825.9 no debuff |
-| B | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) | 857.5 | 1044 | 821.1 no debuff |
-| C | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 849.7 | 1034.1 | 813.9 no debuff |
-| D | [True, R13](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) | 847.6 | 1037.5 | 884.5 T2 debuff |
-| E | [True, 5/8 T2, R12](https://sixtyupgrades.com/set/8HNxjEhVzT6rkyQKUPW44b) | 846.2 | 1035.8 | 883.4 T2 debuff |
-| F | [Realistic, R13](https://sixtyupgrades.com/set/uQRDm9MgkRWA2HAZMCBaGY) | 837.3 | 1024.4 | 873.8 T2 debuff |
-| G | [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) | 834.8 | 1021.3 | 871.7 T2 debuff |
-| H | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) | 831.9 | 1011.7 | 868.7 T2 debuff |
-| I | [True, T1, +7 Scope](https://sixtyupgrades.com/set/2zGBs9vd8eVU2M8mRCVTFg) | 829.8 | 1030.8 | 866.7 T2 debuff |
-| J | [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) | 829.7 | 1014.7 | 866.3 T2 debuff |
-| K | [True, T1, Hit Scope](https://sixtyupgrades.com/set/6x7mnwR5tMoHD241HVL83P) | 829.6 | 1030.6 | 866.8 T2 debuff |
-| L | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) | 826.8 | 1005.2 | 863.3 T2 debuff |
-| M | [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) | 815.4 | 1011.8 | 852 T2 debuff |
+| ID | Gear set | DPS | AoE DPS |
+| --- | --- | --- | --- |
+| A | [True, 5/8 T2, R12](https://sixtyupgrades.com/set/8HNxjEhVzT6rkyQKUPW44b) | 943.2 | 1137.8 |
+| B | [True, R13](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) | 940.2 | 1134 |
+| C | [True, 6/8 T2, R10](https://sixtyupgrades.com/set/eNLgXQRbh5A7bgFNYivDfV) | 937.5 | 1124.6 |
+| D | [Realistic, 4/8 T2, R12, Accuria](https://sixtyupgrades.com/set/uMs7GWU7f2128adwLoDvDs) | 933 | 1125.2 |
+| E | [Realistic, R13, Accuria](https://sixtyupgrades.com/set/sYAJTKNw8pV9bnUafSB29B) | 932.8 | 1124.8 |
+| F | [Realistic, R13](https://sixtyupgrades.com/set/uQRDm9MgkRWA2HAZMCBaGY) | 928.7 | 1119.7 |
+| G | [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) | 928 | 1118.8 |
+| H | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) | 927.5 | 1112.1 |
+| I | [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) | 920.9 | 1103.9 |
+| J | [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) | 919.8 | 1108.6 |
+| K | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) | 919.4 | 1102 |
+| L | [True, T1, Hit Scope](https://sixtyupgrades.com/set/6x7mnwR5tMoHD241HVL83P) | 918.9 | 1123.8 |
+| M | [True, T1, +7 Scope](https://sixtyupgrades.com/set/2zGBs9vd8eVU2M8mRCVTFg) | 918.8 | 1124 |
+| N | [True, T1, no DFT](https://sixtyupgrades.com/set/im7tzASyNKdF2hdm3kn6zU) | 913.9 | 1117.4 |
+| O | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) | 913.2 | 1094.4 |
+| P | [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) | 907.5 | 1109.3 |
+| Q | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 905.3 | 1084.5 |
+
+
+
+#  UPDATES PENDING BELOW  
 
 Phase 4
 ---
