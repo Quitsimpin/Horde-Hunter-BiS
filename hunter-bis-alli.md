@@ -13,6 +13,7 @@ Normal Ranged rotation
 - Weapons with 2 values listed are with and without Zandalar buff increasing agility
 
 | Weapon | eAP |
+| --- | --- |
 | Warblade of the Hakkari (MH) / Fang of the Faceless / R14 PvP weapons | 62 |
 | Brutality Blade | 60 / 64 |
 | Core Hound Tooth | 54 |
