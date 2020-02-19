@@ -14,7 +14,7 @@ Normal Ranged rotation
 
 | Weapon | eAP |
 | --- | --- |
-| Warblade of the Hakkari (MH) / Fang of the Faceless / R14 PvP weapons | 62 |
+| Hakkari MH / Fang of the Faceless / R14 | 62 |
 | Brutality Blade | 60 / 64 |
 | Core Hound Tooth | 54 |
 | Doom's Edge / Dragonfang Blade | 46 / 53 |
