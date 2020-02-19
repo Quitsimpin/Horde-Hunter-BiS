@@ -8,6 +8,21 @@ Skinnay's Classic Hunter Gear Lists (Alliance) ![](https://i.imgur.com/RL0HHcp.p
 
 Normal Ranged rotation
 ===
+
+##### Stat stick rankings (up to P4)
+- Weapons with 2 values listed are with and without Zandalar buff increasing agility
+
+| Weapon | eAP |
+| Warblade of the Hakkari (MH) / Fang of the Faceless / R14 PvP weapons | 62 |
+| Brutality Blade | 60 / 64 |
+| Core Hound Tooth | 54 |
+| Doom's Edge / Dragonfang Blade | 46 / 53 |
+| Dal'rend's set (averaged) | 42 |
+| Ribsplitter of Agility | 42 / 47 |
+| Bone Slicing Hatchet / WSG revered dagger | 38 / 43 |
+| Tooth of Eranikus | 37 |
+| 1% crit weapon | 34 |
+
 Pre-raid P3
 ---
 - I am not including PvP ranking gear as "pre-raid".
