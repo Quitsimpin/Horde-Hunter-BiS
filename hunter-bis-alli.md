@@ -122,9 +122,6 @@ Pre-raid
 ---
 - No difference except that the Trueaim set falls a little further behind the Devilsaur set, and you can upgrade Barb Blade to Dreadforge Retaliator, or Arcanite Reaper if you're willing to spend the money.
 
-Phase 2.5
----
-- Cape of the Black Baron beats Cloak of the Shrouded Mists due to the change in agi weighting, until you have Zandalar buff in p4+.
 
 Phase 3
 ---
