@@ -73,7 +73,7 @@ Phase 4
 - Assuming +15% agility from Spirit of Zandalar from here on
 
 | ID | Gear set | DPS | AoE DPS |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | A | [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) | 923.1 | 1127 |
 | B | [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) | 916.4 | 1118.4 |
 | C | [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) | 909.1 | 1116 |
