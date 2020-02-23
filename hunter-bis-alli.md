@@ -40,6 +40,7 @@ Phase 3
 ---
 - Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting. If you do get Nefarian's head, choosing the neck from the quest will last you much longer for PvP.
 - Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
+- Full T2 does not include the debuff in the listed DPS.
 
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
@@ -71,20 +72,20 @@ Phase 4
 ---
 - Assuming +15% agility from Spirit of Zandalar from here on
 
-| ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
+| ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- | --- |
-| A | [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) | 923.1 | 1127 | 886.4 no debuff |
-| B | [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) | 916.4 | 1118.4 | 879.6 no debuff |
-| C | [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) | 909.1 | 1116 | 946.4 T2 debuff |
-| D | [True, 4/8 T2, R12](https://sixtyupgrades.com/set/dpqGCRb327gE7FmHhjuQiK) | 906.8 | 1112.8 | 944.1 T2 debuff |
-| E | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) | 904.1 | 1109.5 | 941.4 T2 debuff |
-| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) | 902.2 | 1107.3 | 939.5 T2 debuff |
-| G | [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) | 901.5 | 1106.1 | 939.1 T2 debuff |
-| H | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/wE2zQFiVYYdcc77NjdhptS) | 899.5 | 1103.6 | 937.2 T2 debuff |
-| I | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 893.6 | 1089.7 | 931.1 T2 debuff |
-| J | [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) | 887.6 | 1105.7 | 924.9 T2 debuff |
-| K | [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 882.6 | 1098.9 | 919.7 T2 debuff |
-| L | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) | 880.7 | 1096.7 | 918 T2 debuff |
+| A | [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) | 923.1 | 1127 |
+| B | [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) | 916.4 | 1118.4 |
+| C | [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) | 909.1 | 1116 |
+| D | [True, 4/8 T2, R12](https://sixtyupgrades.com/set/dpqGCRb327gE7FmHhjuQiK) | 906.8 | 1112.8 |
+| E | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) | 904.1 | 1109.5 |
+| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) | 902.2 | 1107.3 |
+| G | [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) | 901.5 | 1106.1 |
+| H | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/wE2zQFiVYYdcc77NjdhptS) | 899.5 | 1103.6 |
+| I | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 893.6 | 1089.7 |
+| J | [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) | 887.6 | 1105.7 |
+| K | [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 882.6 | 1098.9 |
+| L | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) | 880.7 | 1096.7 |
 
 Phase 5
 ---
