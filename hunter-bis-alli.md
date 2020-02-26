@@ -12,8 +12,8 @@ Normal Ranged rotation
 ##### Stat stick rankings (up to P4)
 - Weapons with 2 values listed are with and without Zandalar buff increasing agility
 
-| Weapon | eAP |
-| --- | --- |
+| Weapon | eAP | Kings | Zandalar |
+| --- | --- | --- | --- |
 | Hakkari MH / Fang of the Faceless / R14 | 62 | . |
 | Brutality Blade | 60 / 64 |
 | Core Hound Tooth | 54 |
