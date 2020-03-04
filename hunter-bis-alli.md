@@ -35,6 +35,7 @@ Pre-raid P3
 
 Phase 3
 ---
+- The dps provided by 5/8 set bonuses is situational and cannot be quantified, so it is not included in the dps calculations, but should be taken into consideration.
 - Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting. If you do get Nefarian's head, choosing the neck from the quest will last you much longer for PvP.
 - Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
 - Full T2 does not include the debuff in the listed DPS.
@@ -46,20 +47,21 @@ Phase 3
 | C | [True, 6/8 T2, R10](https://sixtyupgrades.com/set/eNLgXQRbh5A7bgFNYivDfV) | 854.6 | 1017.2 |
 | D | [Realistic, 4/8 T2, R12, Accuria](https://sixtyupgrades.com/set/uMs7GWU7f2128adwLoDvDs) | 850.3 | 1017.4 |
 | E | [Realistic, R13, Accuria](https://sixtyupgrades.com/set/sYAJTKNw8pV9bnUafSB29B) | 849.7 | 1016.5 |
-| F | [Realistic, R13](https://sixtyupgrades.com/set/uQRDm9MgkRWA2HAZMCBaGY) | 846.1 | 1012.1 |
-| G | [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) | 845.7 | 1011.6 |
-| H | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) | 845.5 | 1006 |
-| I | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) | 842.9 | 1008.2 |
-| J | [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) | 839.3 | 998.4 |
-| K | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) | 838.1 | 996.9 |
-| L | [True, T1, Hit Scope](https://sixtyupgrades.com/set/6x7mnwR5tMoHD241HVL83P) | 836.7 | 1014.8 |
-| M | [True, T1, +7 Scope](https://sixtyupgrades.com/set/2zGBs9vd8eVU2M8mRCVTFg) | 836.7 | 1015 |
-| N | [Realistic, 5/8 T2, R7, Accuria](https://sixtyupgrades.com/set/ozBQs8LCvb9Jz6RNkxQ8sK) | 835.6 | 999 |
-| O | [Realistic, 6/8 T2, Accuria](https://sixtyupgrades.com/set/jy6AsrpJFKR7vx13nBdenE) | 833.6 | 991.3 |
-| P | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) | 832.3 | 989.7 |
-| Q | [Realistic, T1, Accuria](https://sixtyupgrades.com/set/im7tzASyNKdF2hdm3kn6zU) | 829.9 | 1006.1 |
-| R | [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) | 826.3 | 1001.6 |
-| S | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 825.1 | 980.8 |
+| F | [Realistic, 3/8 T2, R12](https://sixtyupgrades.com/set/n5s6D7WDdRRpLSYNNVfboo) | 847.5 | 1013.9 |
+| G | [Realistic, R13](https://sixtyupgrades.com/set/uQRDm9MgkRWA2HAZMCBaGY) | 846.1 | 1012.1 |
+| H | [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) | 845.7 | 1011.6 |
+| I | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) | 845.5 | 1006 |
+| J | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) | 842.9 | 1008.2 |
+| K | [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) | 839.3 | 998.4 |
+| L | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) | 838.1 | 996.9 |
+| M | [True, T1, Hit Scope](https://sixtyupgrades.com/set/6x7mnwR5tMoHD241HVL83P) | 836.7 | 1014.8 |
+| N | [True, T1, +7 Scope](https://sixtyupgrades.com/set/2zGBs9vd8eVU2M8mRCVTFg) | 836.7 | 1015 |
+| O | [Realistic, 5/8 T2, R7, Accuria](https://sixtyupgrades.com/set/ozBQs8LCvb9Jz6RNkxQ8sK) | 835.6 | 999 |
+| P | [Realistic, 6/8 T2, Accuria](https://sixtyupgrades.com/set/jy6AsrpJFKR7vx13nBdenE) | 833.6 | 991.3 |
+| Q | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) | 832.3 | 989.7 |
+| R | [Realistic, T1, Accuria](https://sixtyupgrades.com/set/im7tzASyNKdF2hdm3kn6zU) | 829.9 | 1006.1 |
+| S | [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) | 826.3 | 1001.6 |
+| T | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 825.1 | 980.8 |
 
 
 
