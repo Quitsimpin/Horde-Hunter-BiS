@@ -124,10 +124,6 @@ Key differences for gear configurations:
 | Ashkandi |  |
 | Barb of the Sand Reaver |  |
 | Eye of Nerub |  |
-Pre-raid
----
-- No difference except that the Trueaim set falls a little further behind the Devilsaur set, and you can upgrade Barb Blade to Dreadforge Retaliator, or Arcanite Reaper if you're willing to spend the money.
-
 
 Phase 3
 ---
