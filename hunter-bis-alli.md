@@ -18,8 +18,8 @@ Normal Ranged rotation
 | Doom's Edge / Dragonfang Blade | 42 | 46 | 53 |
 | Dal'rend's set (averaged) | 42 |
 | Ribsplitter of Agility | 39 | 42 | 47 |
-| Bone Slicing Hatchet / WSG revered dagger | 34 | 38 | 43 |
 | Tooth of Eranikus | 37 |
+| Bone Slicing Hatchet / WSG revered dagger | 34 | 38 | 43 |
 | 1% crit weapon | 34 |
 
 Pre-raid P3
