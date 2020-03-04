@@ -25,7 +25,6 @@ Normal Ranged rotation
 Pre-raid P3
 ---
 - I am not including PvP ranking gear as "pre-raid".
-- Dal'rends > Ribsplitter of Agility > Bone Slicing Hatchet/Sentinel's Blade > Assassination Blade/Dawn's Edge
 
 | ID | Gear set | DPS |
 | --- | --- | --- |
@@ -116,7 +115,16 @@ Key differences for gear configurations:
 * Hit is now split into 2 parts, where the ranged hit scope & ranged weapon skill are a bit less valuable than regular hit, and you can still get some value from melee hit past the ranged cap. (e.g. 28 AP per hit = 24 per ranged hit + 4 per melee hit). A similar dynamic happens with ranged/melee AP.
 * Strength is worth a small amount. (6 str ~= 1 AP)
 
-
+| Weapon | DPS |
+| --- | --- |
+| Barbarous Blade | Baseline |
+| Lok'delar |  |
+| Dreadforge Retaliator |  |
+| Arcanite Reaper |  |
+| Zin'rokh |  |
+| Ashkandi |  |
+| Barb of the Sand Reaver |  |
+| Eye of Nerub |  |
 Pre-raid
 ---
 - No difference except that the Trueaim set falls a little further behind the Devilsaur set, and you can upgrade Barb Blade to Dreadforge Retaliator, or Arcanite Reaper if you're willing to spend the money.
