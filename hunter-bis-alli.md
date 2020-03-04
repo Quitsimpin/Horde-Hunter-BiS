@@ -64,9 +64,6 @@ Phase 3
 | T | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 825.1 | 980.8 |
 
 
-
-#  UPDATES PENDING BELOW  
-
 Phase 4
 ---
 
@@ -84,6 +81,9 @@ Phase 4
 | J | [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) | 842.5 | 1002.2 |
 | K | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) | 837.6 | 1016.1 |
 | L | [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 837.4 | 1015.6 |
+
+
+#  UPDATES PENDING BELOW  
 
 Phase 5
 ---
