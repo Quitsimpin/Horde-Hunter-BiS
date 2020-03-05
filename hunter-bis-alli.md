@@ -116,7 +116,6 @@ Key differences for gear configurations:
 | --- | --- |
 | Barbarous Blade | Baseline |
 | Lok'delar / Peacemaker | +3 |
-| Spinal Reaper | +7 |
 | Dreadforge Retaliator | +9 |
 | Huntsman's Harpoon | +12 |
 | Arcanite Reaper | +15 |
