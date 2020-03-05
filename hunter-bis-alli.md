@@ -115,13 +115,17 @@ Key differences for gear configurations:
 | Weapon | DPS |
 | --- | --- |
 | Barbarous Blade | Baseline |
-| Lok'delar |  |
-| Dreadforge Retaliator |  |
-| Arcanite Reaper |  |
-| Zin'rokh |  |
-| Ashkandi |  |
-| Barb of the Sand Reaver |  |
-| Eye of Nerub |  |
+| Lok'delar / Peacemaker | +3 |
+| Spinal Reaper | +7 |
+| Dreadforge Retaliator | +9 |
+| Huntsman's Harpoon | +12 |
+| Arcanite Reaper | +15 |
+| Zin'rokh | +21 |
+| R14 2H | +23 |
+| Ashkandi | +24 |
+| Gri'leks Carver (Dragonkin) | +31 |
+| Barb of the Sand Reaver | +33 |
+| Eye of Nerub | +40 |
 
 Phase 3
 ---
