@@ -125,6 +125,7 @@ Key differences for gear configurations:
 | Gri'leks Carver (Dragonkin) | +31 |
 | Barb of the Sand Reaver | +33 |
 | Eye of Nerub | +40 |
+| Eye of Nerub (with wep skill used) | +46 |
 
 Phase 3
 ---
