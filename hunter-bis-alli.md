@@ -83,8 +83,6 @@ Phase 4
 | L | [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 837.4 | 1015.6 |
 
 
-#  UPDATES PENDING BELOW  
-
 Phase 5
 ---
 
