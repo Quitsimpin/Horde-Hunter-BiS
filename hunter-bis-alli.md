@@ -89,7 +89,7 @@ Phase 5
 ---
 
 | ID | Gear set | DPS | AoE DPS |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | A | [Realistic, 3/8 T2, R12, Hit Scope](https://sixtyupgrades.com/set/qLZRDPuxxhQ1oJavEdCG9i) | 878.2 | 1057.8 |
 | B | [Realistic, 3/8 T2, R12, +7 Scope](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) | 877.1 | 1056.7 |
 | C | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) | 872.8 | 1051.1 |
