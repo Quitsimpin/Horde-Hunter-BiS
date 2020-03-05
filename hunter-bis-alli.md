@@ -93,10 +93,10 @@ Phase 5
 | A | [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) | 950.8 | 1154.3 |
 | B | [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 945.5 | 1147.5 |
 | C | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 944.5 | 1146.3 |
-| D | [Realistic, R12 mix, +7 Scope](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) | 939.2 | 1146.5 |
-| E | [Realistic, R12 mix, Hit Scope](https://sixtyupgrades.com/set/qLZRDPuxxhQ1oJavEdCG9i) | 938.9 | 1146 |
-| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) | 937 | 1143.7 |
-| G | [Realistic, T1](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 912.3 | 1129.5 |
+| D | [Realistic, R12 mix, Hit Scope](https://sixtyupgrades.com/set/qLZRDPuxxhQ1oJavEdCG9i) | 878.2 | 1057.8 |
+| E | [Realistic, R12 mix, +7 Scope](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) | 877.1 | 1056.7 |
+| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) | 872.8 | 1051.1 |
+| G | [Realistic, T1](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 851 | 1039.2 |
 
 Phase 6
 ---
