@@ -192,6 +192,7 @@ Phase 5
 | E | [Realistic, R12 mix, +7 Scope](https://sixtyupgrades.com/set/exnsdwJe6vdB2uw6GwnZfc) | 1038.7 | 1244.9 | 1074.2 T2 debuff |
 | F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) | 1037.1 | 1242.9 | 1072.1 T2 debuff |
 | G | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) | 1035.1 | 1240.7 | 1070.1 T2 debuff |
+
 <a name="mwp6"></a>
 Phase 6 
 ---
