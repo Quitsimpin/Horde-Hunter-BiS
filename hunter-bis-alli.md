@@ -34,6 +34,7 @@ Normal Ranged rotation
 | Tooth of Eranikus | 37 |
 | Bone Slicing Hatchet / WSG revered dagger | 34 | 38 | 43 |
 | 1% crit weapon | 34 |
+
 <a name="prep3"></a>
 Pre-raid P3 
 ---
