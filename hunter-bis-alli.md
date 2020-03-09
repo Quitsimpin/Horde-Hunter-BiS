@@ -35,7 +35,7 @@ Normal Ranged rotation <a name="normal"></a>
 | Bone Slicing Hatchet / WSG revered dagger | 34 | 38 | 43 |
 | 1% crit weapon | 34 |
 
-Pre-raid P3
+Pre-raid P3 <a name="prep3"></a>
 ---
 - I am not including PvP ranking gear as "pre-raid".
 
@@ -46,7 +46,7 @@ Pre-raid P3
 | C | [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 784.4 |
 
 
-Phase 3
+Phase 3 <a name="p3"></a>
 ---
 - The dps provided by 5/8 set bonuses is situational and cannot be quantified, so it is not included in the dps calculations, but should be taken into consideration.
 - Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting. If you do get Nefarian's head, choosing the neck from the quest will last you much longer for PvP.
@@ -77,7 +77,7 @@ Phase 3
 | T | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 825.1 | 980.8 |
 
 
-Phase 4
+Phase 4 <a name="p4"></a>
 ---
 
 | ID | Gear set | DPS | AoE DPS |
@@ -96,7 +96,7 @@ Phase 4
 | L | [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 837.4 | 1015.6 |
 
 
-Phase 5
+Phase 5 <a name="p5"></a>
 ---
 
 | ID | Gear set | DPS | AoE DPS |
@@ -109,7 +109,7 @@ Phase 5
 | F | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 853.3 | 1021.3 |
 | G | [Realistic, T1](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 851 | 1039.2 |
 
-Phase 6
+Phase 6 <a name="p6"></a>
 ---
 | ID | Gear set | DPS |
 | --- | --- | --- |
@@ -117,7 +117,7 @@ Phase 6
 | B | [Realistic, T3](https://sixtyupgrades.com/set/umhuhtBzkD1BBCqx4cBcou) | 1058.8 |
 | C | [Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) | 1013.1 |
 
-Melee weave rotation
+Melee weave rotation <a name="meleeweaving"></a>
 ===
 Key differences for gear configurations:
 * Melee weapon progression is streamlined and inflexible, and you aren't getting 2% hit from BiS weapons in p5-6. 
@@ -141,7 +141,7 @@ Key differences for gear configurations:
 | Eye of Nerub (wep skill used) | +46 |
 
 
-Phase 3
+Phase 3 <a name="mwp3"></a>
 ---
 - Get Ashjre'thul and Ashkandi by any means necessary.
 
@@ -171,13 +171,13 @@ Phase 3
 [//]: | T | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 825.1 | 980.8 |
 
 
-Phase 4
+Phase 4 <a name="mwp4"></a>
 ---
 - If you can't get your hands on Ashkandi, Zin'rokh is a decent alternative (~3 less dps)
 - Swiftness of Zanza makes you weave faster and clip less.
 - The +7 Scope sets listed above now barely edge out Hit Scope sets, since you gain melee hit.
 
-Phase 5
+Phase 5 <a name="mwp5"></a>
 ---
 | ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
 | --- | --- | --- | --- | --- |
@@ -189,7 +189,7 @@ Phase 5
 | F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) | 1037.1 | 1242.9 | 1072.1 T2 debuff |
 | G | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) | 1035.1 | 1240.7 | 1070.1 T2 debuff |
 
-Phase 6
+Phase 6 <a name="mwp6"></a>
 ---
 | ID | Gear set | DPS |
 | --- | --- | --- |
