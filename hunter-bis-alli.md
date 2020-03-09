@@ -152,27 +152,6 @@ Phase 3
 | --- | --- | --- | --- |
 | A | [True, R13](https://sixtyupgrades.com/set/5dDn1nA8V1E6d6Wut6cAXy) | 949.7 | 1120.3 |
 
-[//]: | A | [True, 5/8 T2, R12](https://sixtyupgrades.com/set/8HNxjEhVzT6rkyQKUPW44b) | 859.5 | 1028.7 |
-[//]: | B | [True, R13](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) | 856.6 | 1025.1 |
-[//]: | C | [True, 6/8 T2, R10](https://sixtyupgrades.com/set/eNLgXQRbh5A7bgFNYivDfV) | 854.6 | 1017.2 |
-[//]: | D | [Realistic, 4/8 T2, R12, Accuria](https://sixtyupgrades.com/set/uMs7GWU7f2128adwLoDvDs) | 850.3 | 1017.4 |
-[//]: | E | [Realistic, R13, Accuria](https://sixtyupgrades.com/set/sYAJTKNw8pV9bnUafSB29B) | 849.7 | 1016.5 |
-[//]: | F | [Realistic, 3/8 T2, R12](https://sixtyupgrades.com/set/n5s6D7WDdRRpLSYNNVfboo) | 847.5 | 1013.9 |
-[//]: | G | [Realistic, R13](https://sixtyupgrades.com/set/uQRDm9MgkRWA2HAZMCBaGY) | 846.1 | 1012.1 |
-[//]: | H | [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) | 845.7 | 1011.6 |
-[//]: | I | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) | 845.5 | 1006 |
-[//]: | J | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) | 842.9 | 1008.2 |
-[//]: | K | [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) | 839.3 | 998.4 |
-[//]: | L | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) | 838.1 | 996.9 |
-[//]: | M | [True, T1, Hit Scope](https://sixtyupgrades.com/set/6x7mnwR5tMoHD241HVL83P) | 836.7 | 1014.8 |
-[//]: | N | [True, T1, +7 Scope](https://sixtyupgrades.com/set/2zGBs9vd8eVU2M8mRCVTFg) | 836.7 | 1015 |
-[//]: | O | [Realistic, 5/8 T2, R7, Accuria](https://sixtyupgrades.com/set/ozBQs8LCvb9Jz6RNkxQ8sK) | 835.6 | 999 |
-[//]: | P | [Realistic, 6/8 T2, Accuria](https://sixtyupgrades.com/set/jy6AsrpJFKR7vx13nBdenE) | 833.6 | 991.3 |
-[//]: | Q | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) | 832.3 | 989.7 |
-[//]: | R | [Realistic, T1, Accuria](https://sixtyupgrades.com/set/im7tzASyNKdF2hdm3kn6zU) | 829.9 | 1006.1 |
-[//]: | S | [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) | 826.3 | 1001.6 |
-[//]: | T | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 825.1 | 980.8 |
-
 <a name="mwp4"></a>
 Phase 4 
 ---
