@@ -18,8 +18,8 @@ Skinnay's Classic Hunter Gear Lists (Alliance) ![](https://i.imgur.com/RL0HHcp.p
     3. [Phase 5](#mwp5)
     4. [Phase 6](#mwp6)
 
-
-Normal Ranged rotation <a name="normal"></a>
+<a name="normal"></a>
+Normal Ranged rotation 
 ===
 
 ##### Stat stick rankings (up to P4)
