@@ -150,7 +150,9 @@ Phase 3
 
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
-| A | [True, R13](https://sixtyupgrades.com/set/5dDn1nA8V1E6d6Wut6cAXy) | 949.7 | 1120.3 |
+| A | [True, 5/8 T2, R12](https://sixtyupgrades.com/set/o9ry12RFPEzWngwLXbPFDy) | 950.8 | 1122.1 |
+| B | [True, R13](https://sixtyupgrades.com/set/5dDn1nA8V1E6d6Wut6cAXy) | 949.7 | 1120.3 |
+
 
 <a name="mwp4"></a>
 Phase 4 
