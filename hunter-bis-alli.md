@@ -39,6 +39,7 @@ Normal Ranged rotation
 Pre-raid P3 
 ---
 - I am not including PvP ranking gear as "pre-raid".
+- The power of Trueaim Gauntlets is due to how weapon skill is calculated against lvl 63s and raid bosses specifically. You may want to use devilsaur set and less hit gear for dungeons and other purposes.
 
 | ID | Gear set | DPS |
 | --- | --- | --- |
