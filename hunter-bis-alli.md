@@ -121,7 +121,7 @@ Phase 6
 | C | [Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) | 1013.1 |
 
 <a name="meleeweaving"></a>
-Melee weave rotation 
+Melee weave rotation (work in progress)
 ===
 Key differences for gear configurations:
 * Melee weapon progression is streamlined and inflexible, and you aren't getting 2% hit from BiS weapons in p5-6. 
