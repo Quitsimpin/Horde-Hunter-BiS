@@ -153,6 +153,8 @@ Phase 3
 | --- | --- | --- | --- |
 | A | [True, 5/8 T2, R12](https://sixtyupgrades.com/set/o9ry12RFPEzWngwLXbPFDy) | 950.8 | 1122.1 |
 | B | [True, R13](https://sixtyupgrades.com/set/5dDn1nA8V1E6d6Wut6cAXy) | 949.7 | 1120.3 |
+| C | [True, 6/8 T2, R10](https://sixtyupgrades.com/set/eNLgXQRbh5A7bgFNYivDfV) | 945.5 | 1110.1 |
+| D | [Realistic, 4/8 T2, R12, Accuria](https://sixtyupgrades.com/set/uMs7GWU7f2128adwLoDvDs) | 941 | 1110.7 |
 
 
 <a name="mwp4"></a>
