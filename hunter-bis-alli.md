@@ -23,7 +23,7 @@ Normal Ranged rotation
 ===
 
 ##### Stat stick rankings (up to P4)
-| Weapon | Base | Kings | Zandalar |
+| Weapon | Base | Kings | Kings+Zandalar |
 | --- | --- | --- | --- |
 | Hakkari MH / Fang of the Faceless / R14 | 62 |
 | Brutality Blade | 58 | 60 | 64 |
