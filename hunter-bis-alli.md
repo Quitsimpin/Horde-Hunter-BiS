@@ -45,7 +45,7 @@ Pre-raid P4
 | A | [Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) | 734.1 |
 | B | [Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 733.3 |
 
-| Stat Weight | eAP |
+| Stat | eAP |
 | --- | --- |
 | 1% Crit | 32 AP |
 | 1% Hit | 35 AP |
