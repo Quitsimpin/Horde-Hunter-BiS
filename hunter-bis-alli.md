@@ -36,24 +36,30 @@ Normal Ranged rotation
 | 1% crit weapon | 34 |
 
 <a name="prep3"></a>
-Pre-raid P3 
+Pre-raid P4 
 ---
-- I am not including PvP ranking gear as "pre-raid".
 - The power of Trueaim Gauntlets is due to how weapon skill is calculated against lvl 63s and raid bosses specifically. You may want to use devilsaur set and less hit gear for dungeons and other purposes.
 
 | ID | Gear set | DPS |
 | --- | --- | --- |
-| A | [True, Hit Scope](https://sixtyupgrades.com/set/cdgwxCbghC9LZpYPPYJhUi) | 786.9 |
-| B | [Realistic, Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) | 785.3 |
-| C | [Realistic, Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 784.4 |
+| A | [Trueaim](https://sixtyupgrades.com/set/eX7G4p9rF75sLKmXvhYKQb) | 734.1 |
+| B | [Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 733.3 |
+
+Stat Weights
+1% Crit ~= 32 AP
+1% Hit ~= 35 AP
+1 Agi ~= 2.6
+1 Agi (kings) ~= 2.85
+1 Agi (zg) ~= 3
+1 Agi (kings+zg) ~= 3.3
 
 <a name="p3"></a>
 Phase 3 
 ---
-- The dps provided by 5/8 set bonuses is situational and cannot be quantified, so it is not included in the dps calculations, but should be taken into consideration.
-- Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting. If you do get Nefarian's head, choosing the neck from the quest will last you much longer for PvP.
+- The dps provided by 5/8 tier set bonuses is situational and cannot be quantified, so it is not included in the dps calculations, but should be taken into consideration.
+- Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting considering that it is easily replaceable, while the neck from the quest is PvP bis.
 - Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
-- Full T2 does not include the debuff in the listed DPS.
+- Full T2 does not include the debuff in the listed DPS, but .
 
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
