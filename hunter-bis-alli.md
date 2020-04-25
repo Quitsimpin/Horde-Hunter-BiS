@@ -51,7 +51,7 @@ Stat Weights\
 1 Agi ~= 2.6\
 1 Agi (kings) ~= 2.85\
 1 Agi (zg) ~= 3\
-1 Agi (kings+zg) ~= 3.3\
+1 Agi (kings+zg) ~= 3.3
 
 
 <a name="p3"></a>
