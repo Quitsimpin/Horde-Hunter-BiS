@@ -46,17 +46,11 @@ Pre-raid P4
 | B | [Devilsaur](https://sixtyupgrades.com/set/78uCDwHQntBQxS5EuBAM9W) | 733.3 |
 
 Stat Weights
-
 1% Crit ~= 32 AP
-
 1% Hit ~= 35 AP
-
 1 Agi ~= 2.6
-
 1 Agi (kings) ~= 2.85
-
 1 Agi (zg) ~= 3
-
 1 Agi (kings+zg) ~= 3.3
 
 
