@@ -62,7 +62,7 @@ Phase 3
 - The dps provided by 5/8 tier set bonuses is situational and cannot be quantified, so it is not included in the dps calculations, but should be taken into consideration.
 - Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting considering that it is easily replaceable, while the neck from the quest is PvP bis.
 - Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
-- Full T2 does not include the debuff in the listed DPS, but .
+- Full T2 does not include the debuff in the listed DPS.
 
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
