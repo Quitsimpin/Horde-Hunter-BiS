@@ -61,21 +61,22 @@ Phase 3
 ---
 - The dps provided by 5/8 tier set bonuses is situational and cannot be quantified, so it is not included in the dps calculations, but should be taken into consideration.
 - Replacing Elven Ring with Master Dragonslayer's Ring is a minor upgrade, but not really worth getting considering that it is easily replaceable, while the neck from the quest is PvP bis.
-- Doom's Edge is equivalent to Dragonfang Blade, so whichever one you can get your hands on works.
 - Full T2 sets do not include the debuff in the listed DPS, but it contributes roughly **9 dps per hunter on average**, with large variance. i.e. ~90 dps for the 7 second duration of the buff with an average 10% uptime.
 
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
-| A | [True, 5/8 T2, R12](https://sixtyupgrades.com/set/8HNxjEhVzT6rkyQKUPW44b) | 859.5 | 1028.7 |
-| B | [True, R13](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) | 856.6 | 1025.1 |
-| C | [True, 6/8 T2, R10](https://sixtyupgrades.com/set/eNLgXQRbh5A7bgFNYivDfV) | 854.6 | 1017.2 |
-| D | [Realistic, 4/8 T2, R12, Accuria](https://sixtyupgrades.com/set/uMs7GWU7f2128adwLoDvDs) | 850.3 | 1017.4 |
-| E | [Realistic, R13, Accuria](https://sixtyupgrades.com/set/sYAJTKNw8pV9bnUafSB29B) | 849.7 | 1016.5 |
-| F | [Realistic, 3/8 T2, R12](https://sixtyupgrades.com/set/n5s6D7WDdRRpLSYNNVfboo) | 847.5 | 1013.9 |
-| G | [Realistic, R13](https://sixtyupgrades.com/set/uQRDm9MgkRWA2HAZMCBaGY) | 846.1 | 1012.1 |
-| H | [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) | 845.7 | 1011.6 |
-| I | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) | 845.5 | 1006 |
-| J | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) | 842.9 | 1008.2 |
+| A | [True, 5/8 T2, R12](https://sixtyupgrades.com/set/8HNxjEhVzT6rkyQKUPW44b) | 810 | 969.5 |
+| B | [True, R13](https://sixtyupgrades.com/set/mL76vAXFrWDozthVcveEvt) | 807.3 | 966.2 |
+| C | [True, 6/8 T2, R10](https://sixtyupgrades.com/set/eNLgXQRbh5A7bgFNYivDfV) | 805.4 | 958.6 |
+
+| D | [Realistic, 4/8 T2, R12, Accuria](https://sixtyupgrades.com/set/uMs7GWU7f2128adwLoDvDs) | 801.3 | 958.8 |
+| E | [Realistic, R13, Accuria](https://sixtyupgrades.com/set/sYAJTKNw8pV9bnUafSB29B) | 800.8 | 958 |
+| F | [Realistic, 3/8 T2, R12](https://sixtyupgrades.com/set/n5s6D7WDdRRpLSYNNVfboo) | 798.7 | 955.5 |
+| G | [Realistic, R13](https://sixtyupgrades.com/set/uQRDm9MgkRWA2HAZMCBaGY) | 797.4 | 953.8 |
+| H | [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) | 797 | 953.4 |
+| I | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) | 796.8 | 948.1 |
+| J | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) | 790 | 944.7 |
+
 | K | [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) | 839.3 | 998.4 |
 | L | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) | 838.1 | 996.9 |
 | M | [True, T1, Hit Scope](https://sixtyupgrades.com/set/6x7mnwR5tMoHD241HVL83P) | 836.7 | 1014.8 |
