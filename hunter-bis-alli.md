@@ -286,7 +286,7 @@ Weapon Rankings
 
 
 <a name="trinkets"></a>
-Swap Trinkets (under construction)
+Swap Trinkets
 ===
 Devilsaur Eye\
 Devilsaur Tooth\
