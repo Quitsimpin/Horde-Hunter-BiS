@@ -92,18 +92,31 @@ Phase 4
 
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
-| A | [True, 4/8 T2, R12](https://sixtyupgrades.com/set/dpqGCRb327gE7FmHhjuQiK) | 866 | 1036.9 |
-| B | [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) | 864.7 | 1035.3 |
-| C | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/wE2zQFiVYYdcc77NjdhptS) | 860.7 | 1030.3 |
-| D | [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) | 860.5 | 1029.9 |
-| E | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) | 859.3 | 1028.4 |
-| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) | 857.5 | 1026.4 |
-| G | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 855.8 | 1018.7 |
-| H | [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) | 847.5 | 1008.6 |
-| I | [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) | 844.8 | 1025.1 |
-| J | [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) | 842.5 | 1002.2 |
-| K | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) | 837.6 | 1016.1 |
-| L | [Realistic, T1, Hit Scope](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 837.4 | 1015.6 |
+| A | [True, 4/8 T2, R12](https://sixtyupgrades.com/set/dpqGCRb327gE7FmHhjuQiK) | 876.8 | 1050.4 |
+| B | [True, R13](https://sixtyupgrades.com/set/53CuPV5W2Yk4kEEq2nVs67) | 875.2 | 1048.4 |
+| C | [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/sBW8xhJLPhrdB3jTrd3vEn) | 871.5 | 1043.7 |
+| D | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/unHfTLELzuSYDi6afH5Jk2) | 870 | 1041.8 |
+| E | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/wE2zQFiVYYdcc77NjdhptS) | 869.6 | 1041.3 |
+| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) | 868.2 | 1039.7 |
+| G | [Realistic, 3/8 T2, R12, +7 Scope](https://sixtyupgrades.com/set/47hbzhqCSsM6y7PVRmWzmw) | 867.7 | 1039.2 |
+| G | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 864.6 | 1029.6 |
+| H | [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) | 858.1 + 9 per hunter | 1008.6 |
+| G | [Realistic, 5/8 T2, R7](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 854.2 | 1022.2 |
+| I | [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) | 852.6 | 1035.1 |
+| J | [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) | 851.1 + 9 per hunter | 1012.9 |
+| K | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) | 848 | 1014.6 |
+| L | [Realistic, T1, Hit Scope, Unliving](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 847.5 | 1028.4 |
+| L | [Realistic, T1, Hit Scope, QSR](https://sixtyupgrades.com/set/dvmgGbmWzt1r2esB2nuBo3) | 846.2 | 1026.8 |
+| L | [Realistic, T1, Hit Scope, Jin](https://sixtyupgrades.com/set/tUdgAkfZF8VC75n54HTHCd) | 844.9 | 1025.2 |
+
+| Stat | eAP |
+| --- | --- |
+| 1% Crit | 34.5 AP |
+| 1% Hit | 40 AP |
+| 1 Agi | 2.62 |
+| 1 Agi (kings) | 2.9 |
+| 1 Agi (zg) | 3.03 |
+| 1 Agi (kings+zg) | 3.35 |
 
 <a name="p5"></a>
 Phase 5 
