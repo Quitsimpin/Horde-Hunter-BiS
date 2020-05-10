@@ -225,7 +225,7 @@ Weapon Rankings
 - Troll or Dwarf racial adds roughly 6 dps
 
 | Weapon | DPS | MW DPS |
-| --- | --- |
+| --- | --- | --- |
 | Rhok'delar | Baseline |
 | R14 Xbow/Gun | +4 | +4 |
 | Dragonbreath Hand Cannon | +5 | +4 |
