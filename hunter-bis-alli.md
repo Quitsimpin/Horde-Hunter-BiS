@@ -204,6 +204,16 @@ Phase 4
 | O | [Realistic, T1, Hit Scope, QSR](https://sixtyupgrades.com/set/vvRFgUejTaT6MxcTTX7n1R) | 927 | 1105.8 |
 | P | [Realistic, T1, Hit Scope, Jin](https://sixtyupgrades.com/set/rYmf3G8MuLBH4swHScmFXh) | 926.3 | 1104.8 |
 
+| Stat | eAP |
+| --- | --- |
+| 1% Crit | 34 |
+| 1% Hit | 40 |
+| 1% Melee Hit | 7 |
+| 1 mAP | 0.16 |
+| 1 Agi | 2.44 |
+| 1 Agi (kings) | 2.7 |
+| 1 Agi (zg) | 2.83 |
+| 1 Agi (zg+kings) | 3.13 |
 
 
 <a name="mwp5"></a>
