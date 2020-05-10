@@ -274,15 +274,15 @@ Weapon Rankings
 | Weapon | DPS | MW DPS |
 | --- | --- | --- |
 | Rhok'delar | Baseline |
-| R14 Xbow/Gun | +4 | +4 |
-| Dragonbreath Hand Cannon | +5 | +4 |
-| Polished Ironwood Crossbow | +7 | +1 |
-| Crossbow of Imminent Doom (excluding hit) | +8 | +2 |
-| Huhuran's Stinger | +11 | +5 |
-| Soulstring | +18 | +18 |
-| Larvae of the Great Worm | +24 | +20 |
-| Ashjre'thul | +33 | +36 |
-| Nerubian Slavemaker | +64 | +55 |
+| R14 Xbow/Gun | +5 |
+| Dragonbreath Hand Cannon | +9 | +4 |
+| Polished Ironwood Crossbow | +8 |
+| Crossbow of Imminent Doom | +10 |
+| Huhuran's Stinger | +13 | +1 |
+| Soulstring | +18 |
+| Larvae of the Great Worm | +26 |
+| Ashjre'thul | +36 |
+| Nerubian Slavemaker | +68 |
 
 
 <a name="trinkets"></a>
