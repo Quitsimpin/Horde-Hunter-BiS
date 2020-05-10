@@ -2,7 +2,7 @@ Skinnay's Classic Hunter Gear Lists (Alliance) ![](https://i.imgur.com/RL0HHcp.p
 =
 
 - "True" BiS is the absolute best gear configuration given all the possible options. Often this doesn't give you a great picture of what you should be striving for, so realistic alternative sets are provided to plan for constraints that can occur with typical loot distribution.
-- Stat weights and dps values are based on [Sixx's DPS sheet](https://docs.google.com/spreadsheets/d/1BIlB2P1kyV_QdD4ULQzvZvS6hK6BDouUQkyHQzCvBGI/edit#gid=333718892) assuming [full buffs, consumables, and boss debuffs with 20/31/0 spec](https://imgur.com/a/wZ0sBj7), unless otherwise specified. These are of course subject to change with different variables and/or if the sheet is updated.
+- Stat weights and dps values are based on [Sixx's DPS sheet](https://docs.google.com/spreadsheets/d/1BIlB2P1kyV_QdD4ULQzvZvS6hK6BDouUQkyHQzCvBGI/edit#gid=333718892) assuming [full buffs, consumables, and boss debuffs with 20/31/0 spec](https://imgur.com/a/wZ0sBj7), unless otherwise specified. These are of course subject to change with different variables.
 - Gear lists are based on their general effectiveness against all raid bosses as opposed to being tailored for specific bosses, unless otherwise specified.
 
 # Table of Contents
