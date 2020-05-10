@@ -160,7 +160,7 @@ Phase 3
 | D | [Realistic, 4/8 T2, R12, Accuria](https://sixtyupgrades.com/set/51cajMyvhmAtbc6dQoYKS8) | 885.7 | 1045.6 |
 | E | [Realistic, R13, Accuria](https://sixtyupgrades.com/set/rzZVJYhK61zMsBXxKsUfS8) | 884.4 | 1044 |
 | F | [Realistic, 3/8 T2, R12](https://sixtyupgrades.com/set/vDA5L4eTNjGnvSJU9Do3P4) | 882.8 | 1042 |
-| G | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) | 881 | 1034.6 |
+| G | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/qeQbduXR83ifM6S2TWWrc1) | 881 | 1034.6 |
 | H | [Realistic, R13](https://sixtyupgrades.com/set/wHKb267g3migGKj7L2Hmft) | 880.9 | 1039.7 |
 | I | [True, T2](https://sixtyupgrades.com/set/oC1bUs21qpeYDbP7Wqqe74) | 873.9 + 9 per hunter | 1025.5 |
 | J | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/ouakfBKgoEQhpQi2yygfLJ) | 872.9 | 1024.9 |
