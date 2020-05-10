@@ -17,23 +17,12 @@ Skinnay's Classic Hunter Gear Lists (Alliance) ![](https://i.imgur.com/RL0HHcp.p
     2. [Phase 4](#mwp4)
     3. [Phase 5](#mwp5)
     4. [Phase 6](#mwp6)
+3. [Weapons](#weapons)
+4. [Swap Trinkets](#trinkets)
 
 <a name="normal"></a>
 Normal Ranged rotation 
 ===
-
-##### Stat stick rankings (up to P4)
-| Weapon | Base | Kings | Kings+Zandalar |
-| --- | --- | --- | --- |
-| Hakkari MH / Fang of the Faceless / R14 | 62 |
-| Brutality Blade | 58 | 60 | 64 |
-| Core Hound Tooth | 54 |
-| Doom's Edge / Dragonfang Blade | 42 | 46 | 53 |
-| Dal'rend's set (averaged) | 42 |
-| Ribsplitter of Agility | 39 | 42 | 47 |
-| Tooth of Eranikus | 37 |
-| Bone Slicing Hatchet / WSG revered dagger | 34 | 38 | 43 |
-| 1% crit weapon | 34 |
 
 <a name="prep3"></a>
 Pre-raid P4 
@@ -205,3 +194,27 @@ Phase 6
 | --- | --- | --- |
 | A | [True](https://sixtyupgrades.com/set/sgwbyqWMVMVJLHTNw9LhFY) | 1211.5 |
 | B | [Realistic](https://sixtyupgrades.com/set/45b7DqxP3ZzDK3tpKHFAmq) | 1206 |
+
+
+
+
+<a name="weapons"></a>
+Weapon Rankings 
+===
+
+#### Stat stick rankings (up to P4)
+| Weapon | Base | Kings | Kings+Zandalar |
+| --- | --- | --- | --- |
+| Hakkari MH / Fang of the Faceless / R14 | 62 |
+| Brutality Blade | 58 | 60 | 64 |
+| Core Hound Tooth | 54 |
+| Doom's Edge / Dragonfang Blade | 42 | 46 | 53 |
+| Dal'rend's set (averaged) | 42 |
+| Ribsplitter of Agility | 39 | 42 | 47 |
+| Tooth of Eranikus | 37 |
+| Bone Slicing Hatchet / WSG revered dagger | 34 | 38 | 43 |
+| 1% crit weapon | 34 |
+
+<a name="trinkets"></a>
+Swap Trinkets 
+===
