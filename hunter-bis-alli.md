@@ -63,17 +63,17 @@ Phase 3
 | G | [Realistic, R13](https://sixtyupgrades.com/set/uQRDm9MgkRWA2HAZMCBaGY) | 797.4 | 953.8 |
 | H | [Realistic, 5/8 T2, R12, Accuria](https://sixtyupgrades.com/set/xfqzBXLCgHSyDkPsagN4pt) | 797 | 953.4 |
 | I | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) | 796.8 | 948.1 |
-| J | [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) | 791 | 940.9 |
+| J | [True, T2](https://sixtyupgrades.com/set/q9aEdHoqwzjuJ1teEhAJV7) | 791 + 9 per hunter | 940.9 |
 | K | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/JhKtna8dEZufGQYxKqfZ3) | 790 | 944.7 |
 | L | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/47RtY1D7w6xkpDNYtzqf98) | 789.9 | 939.5 |
 | M | [True, T1, Hit Scope](https://sixtyupgrades.com/set/6x7mnwR5tMoHD241HVL83P) | 788.5 | 956.4 |
 | N | [True, T1, +7 Scope](https://sixtyupgrades.com/set/2zGBs9vd8eVU2M8mRCVTFg) | 788.5 | 956.5 |
 | O | [Realistic, 5/8 T2, R7, Accuria](https://sixtyupgrades.com/set/ozBQs8LCvb9Jz6RNkxQ8sK) | 787.5 | 941.4 |
 | P | [Realistic, 6/8 T2, Accuria](https://sixtyupgrades.com/set/jy6AsrpJFKR7vx13nBdenE) | 785.6 | 934.2 |
-| Q | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) | 784.3| 932.7 |
+| Q | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/wsbPAabA7ZkmGAFmUKfSho) | 784.3 + 9 per hunter | 932.7 |
 | R | [Realistic, T1, Accuria](https://sixtyupgrades.com/set/im7tzASyNKdF2hdm3kn6zU) | 782.1 | 948.2 |
 | S | [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) | 778.7 | 944 |
-| T | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 777.6 | 924.3 |
+| T | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 777.6 + 9 per hunter | 924.3 |
 
 | Stat | eAP |
 | --- | --- |
@@ -168,10 +168,10 @@ Phase 3
 | L | [True, T1, Hit Scope](https://sixtyupgrades.com/set/dDD6wQ1CE9XCfqoavurg7n) | 870.3 | 1040 |
 | M | [Realistic, 5/8 T2, R7, Accuria](https://sixtyupgrades.com/set/bvVfVVZ8SZcxMsyh1jw3nZ) | 868.8 | 1025.1 |
 | N | [Realistic, 6/8 T2, Accuria](https://sixtyupgrades.com/set/5xCByjyPghgoKSHVBBX32U) | 867.6 | 1018.4 |
-| O | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/xww3ZLWRmAYBQ7PWut4169) | 866.5 | 1017 |
+| O | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/xww3ZLWRmAYBQ7PWut4169) | 866.5 + 9 per hunter | 1017 |
 | P | [Realistic, T1, Accuria](https://sixtyupgrades.com/set/im7tzASyNKdF2hdm3kn6zU) | 862.7 | 1031.2 |
 | Q | [Realistic, T1](https://sixtyupgrades.com/set/6XGJgA6bNxjudDEXB8CVnD) | 859.2 | 1026.9 |
-| R | [Realistic, T2](https://sixtyupgrades.com/set/jFSzcyUTzfNzkNiB2FCqo) | 858.5 | 1007.5 |
+| R | [Realistic, T2](https://sixtyupgrades.com/set/jFSzcyUTzfNzkNiB2FCqo) | 858.5 + 9 per hunter | 1007.5 |
 
 | Stat | eAP |
 | --- | --- |
