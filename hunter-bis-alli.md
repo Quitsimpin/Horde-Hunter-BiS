@@ -239,5 +239,16 @@ Weapon Rankings
 
 
 <a name="trinkets"></a>
-Swap Trinkets 
+Swap Trinkets (under construction)
 ===
+Devilsaur Eye
+Devilsaur Tooth
+Zandalarian Hero Medallion
+Goblin Mortar
+Rammstein's Lightning Bolts
+Renataki's Charm of Beasts
+Badge of the Swarmguard
+Earthstrike
+Jom Gabbar
+Kiss of the Spider
+Slayer's Crest
