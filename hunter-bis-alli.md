@@ -95,15 +95,15 @@ Phase 4
 | E | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/wE2zQFiVYYdcc77NjdhptS) | 869.6 | 1041.3 |
 | F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/fyL37pVE3egSqkvLa42HVf) | 868.2 | 1039.7 |
 | G | [Realistic, 3/8 T2, R12, +7 Scope](https://sixtyupgrades.com/set/47hbzhqCSsM6y7PVRmWzmw) | 867.7 | 1039.2 |
-| G | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 864.6 | 1029.6 |
-| H | [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) | 858.1 + 9 per hunter | 1008.6 |
-| G | [Realistic, 5/8 T2, R7](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 854.2 | 1022.2 |
-| I | [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) | 852.6 | 1035.1 |
-| J | [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) | 851.1 + 9 per hunter | 1012.9 |
-| K | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) | 848 | 1014.6 |
-| L | [Realistic, T1, Hit Scope, Unliving](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 847.5 | 1028.4 |
-| L | [Realistic, T1, Hit Scope, QSR](https://sixtyupgrades.com/set/dvmgGbmWzt1r2esB2nuBo3) | 846.2 | 1026.8 |
-| L | [Realistic, T1, Hit Scope, Jin](https://sixtyupgrades.com/set/tUdgAkfZF8VC75n54HTHCd) | 844.9 | 1025.2 |
+| H | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 864.6 | 1029.6 |
+| I | [True, T2](https://sixtyupgrades.com/set/tC5sLnGegRhoVo1oQ7Trzp) | 858.1 + 9 per hunter | 1008.6 |
+| J | [Realistic, 5/8 T2, R7](https://sixtyupgrades.com/set/9mTm56P9L5zDWkrzggsUsX) | 854.2 | 1022.2 |
+| K | [True, T1](https://sixtyupgrades.com/set/2nBzbyzExBSbYq2uo6yf3Q) | 852.6 | 1035.1 |
+| L | [Realistic, T2](https://sixtyupgrades.com/set/mAHFmYtv4eme6PL2vkkn81) | 851.1 + 9 per hunter | 1012.9 |
+| M | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/eS6mDZnse64QosZiKUDUn) | 848 | 1014.6 |
+| N | [Realistic, T1, Hit Scope, Unliving](https://sixtyupgrades.com/set/mSDxZb4aUg3bVuA4vjRiaN) | 847.5 | 1028.4 |
+| O | [Realistic, T1, Hit Scope, QSR](https://sixtyupgrades.com/set/dvmgGbmWzt1r2esB2nuBo3) | 846.2 | 1026.8 |
+| P | [Realistic, T1, Hit Scope, Jin](https://sixtyupgrades.com/set/tUdgAkfZF8VC75n54HTHCd) | 844.9 | 1025.2 |
 
 | Stat | eAP |
 | --- | --- |
@@ -140,6 +140,8 @@ Phase 6
 <a name="meleeweaving"></a>
 Melee weave rotation (work in progress)
 ===
+- P3 and P4 assume [13/31/7](https://classic.wowhead.com/talent-calc/hunter/530002003-05251030513051-32002) spec, while P5 and P6 assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-05251030513051), based on whether Slaying talents affect the raid bosses of those phases.
+
 Key differences for gear configurations:
 * Agility weight relative to AP is lower than for pure ranged.
 * Hit is now split into 2 parts, where the ranged hit scope, ranged weapon skill, and ranged AP are a bit less valuable, and you can still get some value from melee hit past the ranged cap. (e.g. 37 AP per hit = 32 per ranged hit + 5 per melee hit).
@@ -152,10 +154,25 @@ Phase 3
 
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
-| A | [True, 5/8 T2, R12](https://sixtyupgrades.com/set/o9ry12RFPEzWngwLXbPFDy) | 950.8 | 1122.1 |
-| B | [True, R13](https://sixtyupgrades.com/set/5dDn1nA8V1E6d6Wut6cAXy) | 949.7 | 1120.3 |
-| C | [True, 6/8 T2, R10](https://sixtyupgrades.com/set/ce1QK7DHCfS483Fnvs4LHP) | 945.5 | 1110.1 |
-| D | [Realistic, 4/8 T2, R12, Accuria](https://sixtyupgrades.com/set/j7nL2pJcrstJgUgUycAEXo) | 941 | 1110.7 |
+| A | [True, 5/8 T2, R12](https://sixtyupgrades.com/set/o9ry12RFPEzWngwLXbPFDy) | 894.6 | 1056 |
+| B | [True, R13](https://sixtyupgrades.com/set/5dDn1nA8V1E6d6Wut6cAXy) | 893.5 | 1054.4 |
+| C | [True, 6/8 T2, R10](https://sixtyupgrades.com/set/ce1QK7DHCfS483Fnvs4LHP) | 889.9 | 1045 |
+| D | [Realistic, 4/8 T2, R12, Accuria](https://sixtyupgrades.com/set/j7nL2pJcrstJgUgUycAEXo) | 885.7 | 1045.6 |
+| E | [Realistic, R13, Accuria](https://sixtyupgrades.com/set/rzZVJYhK61zMsBXxKsUfS8) | 884.4 | 1044 |
+| F | [Realistic, 3/8 T2, R12](https://sixtyupgrades.com/set/vDA5L4eTNjGnvSJU9Do3P4) | 882.8 | 1042 |
+| G | [Realistic, 5/8 T2, R10, Accuria](https://sixtyupgrades.com/set/hFsrFRDswb9fJnoq1xgRef) | 881 | 1034.6 |
+| H | [Realistic, R13](https://sixtyupgrades.com/set/wHKb267g3migGKj7L2Hmft) | 880.9 | 1039.7 |
+| I | [True, T2](https://sixtyupgrades.com/set/oC1bUs21qpeYDbP7Wqqe74) | 873.9 + 9 per hunter | 1025.5 |
+| J | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/ouakfBKgoEQhpQi2yygfLJ) | 872.9 | 1024.9 |
+| K | [True, T1, +7 Scope](https://sixtyupgrades.com/set/6vFT1W5fwCys3jpB4WCy5D) | 871.7 | 1041.6 |
+| L | [True, T1, Hit Scope](https://sixtyupgrades.com/set/dDD6wQ1CE9XCfqoavurg7n) | 870.3 | 1040 |
+| M | [Realistic, 5/8 T2, R7, Accuria](https://sixtyupgrades.com/set/bvVfVVZ8SZcxMsyh1jw3nZ) | 868.8 | 1025.1 |
+| N | [Realistic, 6/8 T2, Accuria](https://sixtyupgrades.com/set/5xCByjyPghgoKSHVBBX32U) | 867.6 | 1018.4 |
+| O | [Realistic, T2, Accuria](https://sixtyupgrades.com/set/xww3ZLWRmAYBQ7PWut4169) | 866.5 | 1017 |
+| P | [Realistic, T1, Accuria](https://sixtyupgrades.com/set/im7tzASyNKdF2hdm3kn6zU) | 862.7 | 1031.2 |
+| Q | [Realistic, T1](https://sixtyupgrades.com/set/6XGJgA6bNxjudDEXB8CVnD) | 859.2 | 1026.9 |
+| R | [Realistic, T2](https://sixtyupgrades.com/set/jFSzcyUTzfNzkNiB2FCqo) | 858.5 | 1007.5 |
+
 
 
 <a name="mwp4"></a>
