@@ -185,6 +185,13 @@ Phase 3
 <a name="mwp4"></a>
 Phase 4 
 ---
+| ID | Gear set | DPS | AoE DPS |
+| --- | --- | --- | --- |
+| A | [True, 4/8 T2, R12](https://sixtyupgrades.com/set/r6TEWaEmFPyhK9H5cxwqoF) | 966 | 1138 |
+| B | [True, R13](https://sixtyupgrades.com/set/6655BrCEKtHxpBZzh9aPF7) | 964.5 | 1136.1 |
+| C | [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/2JbstXTGSLowLomtj4YUXc) | 956.3 | 1127.1 |
+| D | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/o36vKsf4a38PMkaa3HGJ5X) | 954.9 | 954.9 |
+| E | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/eRLuScVLzd87Lugdt2RzsK) |  954.8 | 1125.1 |
 
 
 <a name="mwp5"></a>
@@ -275,4 +282,4 @@ Badge of the Swarmguard\
 Earthstrike\
 Jom Gabbar\
 Kiss of the Spider\
-Slayer's Crest\
+Slayer's Crest
