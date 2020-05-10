@@ -123,11 +123,11 @@ Phase 5
 | A | [Realistic, 3/8 T2, R12, Hit Scope](https://sixtyupgrades.com/set/qLZRDPuxxhQ1oJavEdCG9i) | 892.9 | 1075.9 |
 | B | [Realistic, 3/8 T2, R12, +7 Scope](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) | 891.4 | 1074.2 |
 | C | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) | 889.1 | 1071.2 |
-| D | [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) | 862.2 | 1032.3 |
-| E | [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 854.4 | 1022.4 |
-| F | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 853.3 | 1021.3 |
-| G | [Realistic, T1](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 851 | 1039.2 |
-[Realistic, 3/8 T2, 3/5 T2.5, Hit Scope](https://sixtyupgrades.com/set/3w2Ki4Rphs6EbhnXHr7ChQ) | 875.6 | 1048.5 |
+| D | [Realistic, 3/8 T2, 3/5 T2.5, Hit Scope](https://sixtyupgrades.com/set/3w2Ki4Rphs6EbhnXHr7ChQ) | 875.6 | 1048.5 |
+| E | [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) | 873.5 + 9 per hunter | 1046 |
+| F | [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 868.1 | 1039.2 |
+| G | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 866.7 | 1037.6 |
+| H | [Realistic, T1](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 864.3 | 1055.8 |
 
 <a name="p6"></a>
 Phase 6 
