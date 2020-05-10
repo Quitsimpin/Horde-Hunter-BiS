@@ -75,6 +75,13 @@ Phase 3
 | S | [Realistic, T1](https://sixtyupgrades.com/set/2iQn23cG67EDuFoP4Q9PwW) | 778.7 | 944 |
 | T | [Realistic, T2](https://sixtyupgrades.com/set/n6ASjXHbrUmc9cqpZ2foKn) | 777.6 | 924.3 |
 
+| Stat | eAP |
+| --- | --- |
+| 1% Crit | 33 AP |
+| 1% Hit | 37.5 AP |
+| 1 Agi | 2.61 |
+| 1 Agi (kings) | 2.88 |
+
 <a name="p4"></a>
 Phase 4 
 ---
@@ -134,30 +141,14 @@ Phase 6
 Melee weave rotation (work in progress)
 ===
 Key differences for gear configurations:
-* Melee weapon progression is streamlined and inflexible, and you aren't getting 2% hit from BiS weapons in p5-6. 
 * Agility weight relative to AP is lower than for pure ranged.
 * Hit is now split into 2 parts, where the ranged hit scope, ranged weapon skill, and ranged AP are a bit less valuable, and you can still get some value from melee hit past the ranged cap. (e.g. 37 AP per hit = 32 per ranged hit + 5 per melee hit).
-* Strength and melee AP are worth a small amount. (6 str ~= 1 AP)
+* Strength and melee AP are worth a small amount.
 
-| Weapon | DPS |
-| --- | --- |
-| Barbarous Blade | Baseline |
-| Lok'delar / Peacemaker | +3 |
-| Dreadforge Retaliator | +9 |
-| Huntsman's Harpoon | +12 |
-| Arcanite Reaper | +15 |
-| Zin'rokh | +21 |
-| R14 2H | +23 |
-| Ashkandi | +24 |
-| Gri'leks Carver (Dragonkin) | +31 |
-| Barb of the Sand Reaver | +33 |
-| Eye of Nerub | +40 |
-| Eye of Nerub (wep skill used) | +46 |
 
 <a name="mwp3"></a>
 Phase 3 
 ---
-- Get Ashjre'thul and Ashkandi by any means necessary.
 
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
@@ -170,9 +161,7 @@ Phase 3
 <a name="mwp4"></a>
 Phase 4 
 ---
-- If you can't get your hands on Ashkandi, Zin'rokh is a decent alternative (~3 less dps)
-- Swiftness of Zanza makes you weave faster and clip less.
-- The +7 Scope sets listed above now barely edge out Hit Scope sets, since you gain melee hit.
+
 
 <a name="mwp5"></a>
 Phase 5 
@@ -202,7 +191,7 @@ Phase 6
 Weapon Rankings 
 ===
 
-#### Stat stick rankings (up to P4)
+#### Stat Sticks (up to P4)
 | Weapon | Base | Kings | Kings+Zandalar |
 | --- | --- | --- | --- |
 | Hakkari MH / Fang of the Faceless / R14 | 62 |
@@ -214,6 +203,40 @@ Weapon Rankings
 | Tooth of Eranikus | 37 |
 | Bone Slicing Hatchet / WSG revered dagger | 34 | 38 | 43 |
 | 1% crit weapon | 34 |
+
+
+#### Melee Weaving Weapons
+| Weapon | DPS |
+| --- | --- |
+| Barbarous Blade | Baseline |
+| Lok'delar / Peacemaker | +3 |
+| Dreadforge Retaliator | +9 |
+| Huntsman's Harpoon | +12 |
+| Arcanite Reaper | +15 |
+| Zin'rokh | +21 |
+| R14 2H | +23 |
+| Ashkandi | +24 |
+| Gri'leks Carver (Dragonkin) | +31 |
+| Barb of the Sand Reaver | +33 |
+| Eye of Nerub | +40 |
+| Eye of Nerub (wep skill used) | +46 |
+
+#### Ranged Weapons
+- Troll or Dwarf racial adds roughly 6 dps
+
+| Weapon | DPS | MW DPS |
+| --- | --- |
+| Rhok'delar | Baseline |
+| R14 Xbow/Gun | +4 | +4 |
+| Dragonbreath Hand Cannon | +5 | +4 |
+| Polished Ironwood Crossbow | +7 | +1 |
+| Crossbow of Imminent Doom (excluding hit) | +8 | +2 |
+| Huhuran's Stinger | +11 | +5 |
+| Soulstring | +18 | +18 |
+| Larvae of the Great Worm | +24 | +20 |
+| Ashjre'thul | +33 | +36 |
+| Nerubian Slavemaker | +64 | +55 |
+
 
 <a name="trinkets"></a>
 Swap Trinkets 
