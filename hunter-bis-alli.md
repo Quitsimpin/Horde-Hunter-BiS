@@ -192,6 +192,18 @@ Phase 4
 | C | [Realistic, 5/8 T2, R12](https://sixtyupgrades.com/set/2JbstXTGSLowLomtj4YUXc) | 956.3 | 1127.1 |
 | D | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/o36vKsf4a38PMkaa3HGJ5X) | 954.9 | 954.9 |
 | E | [Realistic, 4/8 T2, R12](https://sixtyupgrades.com/set/eRLuScVLzd87Lugdt2RzsK) |  954.8 | 1125.1 |
+| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/657fzogYrStXkGjNvsXKpN) | 954.6 | 1124.6 |
+| G | [Realistic, 3/8 T2, R12, +7 Scope](https://sixtyupgrades.com/set/cAeJA629JovMtpb1LpimxE) | 954.5 | 1124.5 |
+| H | [Realistic, 5/8 T2, R10](https://sixtyupgrades.com/set/bREJksD6Jvc4HSPNqM6Kzh) | 949.7 | 1113.3 |
+| I | [True, T2](https://sixtyupgrades.com/set/7Th4KSNEDK3Q3PaHHPEwVp) | 944.9 + 9 per hunter | 1106.9 |
+| J | [Realistic, 5/8 T2, R7](https://sixtyupgrades.com/set/gdg1Q9i8UZCdG4o4W8Ldue) | 938.5 | 1105.3 |
+| K | [True, T1](https://sixtyupgrades.com/set/anVJ45KMfujHH2DxQUAzFj) | 937.6 | 1118.2 |
+| L | [Realistic, T2](https://sixtyupgrades.com/set/u3dC3cpe2kmhM1VP7gRdFW) | 851.1 + 9 per hunter | 1012.9 |
+| M | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/uCyj1uz67U6s6r9SjzrrtS) | 927.8 | 1106.7 |
+| N | [Realistic, T1, Hit Scope, Unliving](https://sixtyupgrades.com/set/e8NnozFbrVWrzLYsDZCyyN) | 927.5 | 1106.6 |
+| O | [Realistic, T1, Hit Scope, QSR](https://sixtyupgrades.com/set/vvRFgUejTaT6MxcTTX7n1R) | 927 | 1105.8 |
+| P | [Realistic, T1, Hit Scope, Jin](https://sixtyupgrades.com/set/rYmf3G8MuLBH4swHScmFXh) | 926.3 | 1104.8 |
+
 
 
 <a name="mwp5"></a>
@@ -205,7 +217,7 @@ Phase 5
 | D | [Realistic, R12 mix, Hit Scope](https://sixtyupgrades.com/set/btTZigbQZPfttqYJ7b9WVq) | 1040 | 1246.9 | 1075.5 T2 debuff |
 | E | [Realistic, R12 mix, +7 Scope](https://sixtyupgrades.com/set/exnsdwJe6vdB2uw6GwnZfc) | 1038.7 | 1244.9 | 1074.2 T2 debuff |
 | F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) | 1037.1 | 1242.9 | 1072.1 T2 debuff |
-| G | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) | 1035.1 | 1240.7 | 1070.1 T2 debuff |
+| G | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) | 1035.1 | 1240.7 | 1070.1 T2 debuff 
 
 <a name="mwp6"></a>
 Phase 6 
