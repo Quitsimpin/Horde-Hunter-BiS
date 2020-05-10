@@ -209,15 +209,9 @@ Phase 4
 <a name="mwp5"></a>
 Phase 5 
 ---
-| ID | Gear set | DPS | AoE DPS | T2 toggle DPS |
-| --- | --- | --- | --- | --- |
-| A | [True, T2](https://sixtyupgrades.com/set/7gQRUWN5PTbDvVXur1xjEt) | 1051.9 | 1259.4 | 1017.4 no debuff |
-| B | [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) | 1041.6 | 1243.2 | 1007 no debuff |
-| C | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) | 1039.6 | 1240.2 | 1005.1 no debuff |
-| D | [Realistic, R12 mix, Hit Scope](https://sixtyupgrades.com/set/btTZigbQZPfttqYJ7b9WVq) | 1040 | 1246.9 | 1075.5 T2 debuff |
-| E | [Realistic, R12 mix, +7 Scope](https://sixtyupgrades.com/set/exnsdwJe6vdB2uw6GwnZfc) | 1038.7 | 1244.9 | 1074.2 T2 debuff |
-| F | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) | 1037.1 | 1242.9 | 1072.1 T2 debuff |
-| G | [Realistic, R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) | 1035.1 | 1240.7 | 1070.1 T2 debuff 
+| ID | Gear set | DPS | AoE DPS |
+| --- | --- | --- | --- |
+
 
 <a name="mwp6"></a>
 Phase 6 
