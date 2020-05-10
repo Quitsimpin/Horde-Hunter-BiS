@@ -37,8 +37,8 @@ Pre-raid P4
 
 | Stat | eAP |
 | --- | --- |
-| 1% Crit | 32 AP |
-| 1% Hit | 35 AP |
+| 1% Crit | 32 |
+| 1% Hit | 35 |
 | 1 Agi | 2.6 |
 | 1 Agi (kings) | 2.85 |
 | 1 Agi (zg) | 3 |
@@ -77,8 +77,8 @@ Phase 3
 
 | Stat | eAP |
 | --- | --- |
-| 1% Crit | 33 AP |
-| 1% Hit | 37.5 AP |
+| 1% Crit | 33 |
+| 1% Hit | 37.5 |
 | 1 Agi | 2.61 |
 | 1 Agi (kings) | 2.88 |
 
@@ -107,8 +107,8 @@ Phase 4
 
 | Stat | eAP |
 | --- | --- |
-| 1% Crit | 34.5 AP |
-| 1% Hit | 40 AP |
+| 1% Crit | 34.5 |
+| 1% Hit | 40 |
 | 1 Agi | 2.62 |
 | 1 Agi (kings) | 2.9 |
 | 1 Agi (zg) | 3.03 |
@@ -173,7 +173,14 @@ Phase 3
 | Q | [Realistic, T1](https://sixtyupgrades.com/set/6XGJgA6bNxjudDEXB8CVnD) | 859.2 | 1026.9 |
 | R | [Realistic, T2](https://sixtyupgrades.com/set/jFSzcyUTzfNzkNiB2FCqo) | 858.5 | 1007.5 |
 
-
+| Stat | eAP |
+| --- | --- |
+| 1% Crit | 33 |
+| 1% Hit | 38 |
+| 1% Melee Hit | 7 |
+| 1 mAP | 0.16 |
+| 1 Agi | 2.43 |
+| 1 Agi (kings) | 2.69 |
 
 <a name="mwp4"></a>
 Phase 4 
