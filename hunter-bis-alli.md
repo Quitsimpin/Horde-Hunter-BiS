@@ -199,7 +199,7 @@ Phase 4
 | I | [True, T2](https://sixtyupgrades.com/set/7Th4KSNEDK3Q3PaHHPEwVp) | 944.9 + 9 per hunter | 1106.9 |
 | J | [Realistic, 5/8 T2, R7](https://sixtyupgrades.com/set/gdg1Q9i8UZCdG4o4W8Ldue) | 938.5 | 1105.3 |
 | K | [True, T1](https://sixtyupgrades.com/set/anVJ45KMfujHH2DxQUAzFj) | 937.6 | 1118.2 |
-| L | [Realistic, T2](https://sixtyupgrades.com/set/u3dC3cpe2kmhM1VP7gRdFW) | 929.1.1 + 9 per hunter | 1098.2 |
+| L | [Realistic, T2](https://sixtyupgrades.com/set/u3dC3cpe2kmhM1VP7gRdFW) | 929.1 + 9 per hunter | 1098.2 |
 | M | [Realistic, T1, +7 Scope](https://sixtyupgrades.com/set/uCyj1uz67U6s6r9SjzrrtS) | 927.8 | 1106.7 |
 | N | [Realistic, T1, Hit Scope, Unliving](https://sixtyupgrades.com/set/e8NnozFbrVWrzLYsDZCyyN) | 927.5 | 1106.6 |
 | O | [Realistic, T1, Hit Scope, QSR](https://sixtyupgrades.com/set/vvRFgUejTaT6MxcTTX7n1R) | 927 | 1105.8 |
