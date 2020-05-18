@@ -246,8 +246,8 @@ Phase 5
 | L | [5/8 T2, +7 Scope](https://sixtyupgrades.com/set/nVjChPrtZ3jFQ7i79Xswyq) | 964.2 | 1132.7 |
 | M | [T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) | 959 + 9 per hunter | 1126.9 |
 | N | [T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) | 956.2 + 9 per hunter | 1123.1 |
-| O | [T1, Hit Scope](https://sixtyupgrades.com/set/g9AFM2BYYKL5QLnYd3WJJ3) | 951.7 | 1138.6 |
-| P | [T1, +7 Scope, Accuria](https://sixtyupgrades.com/set/7ViwUPrrLyfARc6c5PNg64) | 951.9 | 1138.7 |
+| O | [T1, +7 Scope, Accuria](https://sixtyupgrades.com/set/7ViwUPrrLyfARc6c5PNg64) | 951.9 | 1138.7 |
+| P | [T1, Hit Scope](https://sixtyupgrades.com/set/g9AFM2BYYKL5QLnYd3WJJ3) | 951.7 | 1138.6 |
 | Q | [T1, +7 Scope](https://sixtyupgrades.com/set/c69nhUWYp3GWAtDHZXV4bp) | 948.3 | 1134.2 |
 
 | Stat | eAP |
