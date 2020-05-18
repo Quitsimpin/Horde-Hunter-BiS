@@ -131,6 +131,14 @@ Phase 5
 | G | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 866.7 | 1037.6 |
 | H | [Realistic, T1](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 864.3 | 1055.8 |
 
+Some alternatives to individual BiS items that do not affect the hit configuration:
+R12 Gloves > Veklor's Gloves > T2 Gloves
+Mantle of Wicked Revenge > Barrage Shoulders
+T2.5 Hauberk > T2 Chest = R13 Chest
+R13 Helm > T2.5 Helm > T2 Helm
+T2.5 Boots > T2 Boots
+Ring of the Godslayer > Circle of Applied Force
+
 <a name="p6"></a>
 Phase 6 
 ---
@@ -224,20 +232,23 @@ Phase 5
 ---
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
-[R12, Hit Scope](https://sixtyupgrades.com/set/btTZigbQZPfttqYJ7b9WVq) | 985.2 | 1164.6 |
-[R12, +7 Scope](https://sixtyupgrades.com/set/exnsdwJe6vdB2uw6GwnZfc) | 983 | 1161.5 |
-[R10, Hit Scope](https://sixtyupgrades.com/set/pLSJAQjH2Xwq7ZMrRSHBvT) | 981.3 | 1153.9 |
-[R13, +7 Scope, Godslayer](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) | 981.1 | 1159.1 |
-[R13, +7 Scope, Accuria](https://sixtyupgrades.com/set/dVUj6MubaUJX5dwthmhWW5) | 979.8 | 1157.5 |
-[R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) | 979.6 | 1157.4 |
-[R10, +7 Scope](https://sixtyupgrades.com/set/8vHKECBzNDfXH36SWNZ8nQ) | 979.1 | 1150.9 |
-[2/5 T2.5, +7 Scope, Accuria](https://sixtyupgrades.com/set/omcGjdsv4HLUTQbReiRLF1) | 967.5 | 1136.7 |
-[2/5 T2.5, +7 Scope](https://sixtyupgrades.com/set/vmcUbCm2KP62v5bMmGDA87) | 966.8 | 1136 |
-[T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) | 959 + 9 per hunter | 1126.9 |
-[T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) | 956.2 + 9 per hunter | 1123.1 |
-[T1, Hit Scope](https://sixtyupgrades.com/set/g9AFM2BYYKL5QLnYd3WJJ3) | 951.7 | 1138.6 |
-[T1, +7 Scope, Accuria](https://sixtyupgrades.com/set/7ViwUPrrLyfARc6c5PNg64) 951.9 | 1138.7 |
-[T1, +7 Scope](https://sixtyupgrades.com/set/c69nhUWYp3GWAtDHZXV4bp) | 948.3 | 1134.2 |
+| A | [R12, Hit Scope](https://sixtyupgrades.com/set/btTZigbQZPfttqYJ7b9WVq) | 985.2 | 1164.6 |
+| B | [R12, +7 Scope](https://sixtyupgrades.com/set/exnsdwJe6vdB2uw6GwnZfc) | 983 | 1161.5 |
+| C | [R10, Hit Scope](https://sixtyupgrades.com/set/pLSJAQjH2Xwq7ZMrRSHBvT) | 981.3 | 1153.9 |
+| D | [R13, +7 Scope, Godslayer](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) | 981.1 | 1159.1 |
+| E | [R13, +7 Scope, Accuria](https://sixtyupgrades.com/set/dVUj6MubaUJX5dwthmhWW5) | 979.8 | 1157.5 |
+| F | [R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) | 979.6 | 1157.4 |
+| G | [R10, +7 Scope](https://sixtyupgrades.com/set/8vHKECBzNDfXH36SWNZ8nQ) | 979.1 | 1150.9 |
+| H | [T2/2.5 mix, Hit Scope](https://sixtyupgrades.com/set/xdt9xVZHAwsNGXvhPxvxLZ) | 969.7 | 1139.7 |
+| I | [T2/2.5 mix, +7 Scope, Accuria](https://sixtyupgrades.com/set/omcGjdsv4HLUTQbReiRLF1) | 967.5 | 1136.7 |
+| J | [5/8 T2, Hit Scope](https://sixtyupgrades.com/set/jXAJMGbxLucEbWLyyvC6xy) | 967 | 1136.4 |
+| K | [T2/2.5 mix, +7 Scope](https://sixtyupgrades.com/set/vmcUbCm2KP62v5bMmGDA87) | 966.8 | 1136 |
+| L | [5/8 T2, +7 Scope](https://sixtyupgrades.com/set/nVjChPrtZ3jFQ7i79Xswyq) | 964.2 | 1132.7 |
+| M | [T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) | 959 + 9 per hunter | 1126.9 |
+| N | [T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) | 956.2 + 9 per hunter | 1123.1 |
+| O | [T1, Hit Scope](https://sixtyupgrades.com/set/g9AFM2BYYKL5QLnYd3WJJ3) | 951.7 | 1138.6 |
+| P | [T1, +7 Scope, Accuria](https://sixtyupgrades.com/set/7ViwUPrrLyfARc6c5PNg64) 951.9 | 1138.7 |
+| Q | [T1, +7 Scope](https://sixtyupgrades.com/set/c69nhUWYp3GWAtDHZXV4bp) | 948.3 | 1134.2 |
 
 <a name="mwp6"></a>
 Phase 6 
