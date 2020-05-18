@@ -250,6 +250,17 @@ Phase 5
 | P | [T1, +7 Scope, Accuria](https://sixtyupgrades.com/set/7ViwUPrrLyfARc6c5PNg64) 951.9 | 1138.7 |
 | Q | [T1, +7 Scope](https://sixtyupgrades.com/set/c69nhUWYp3GWAtDHZXV4bp) | 948.3 | 1134.2 |
 
+| Stat | eAP |
+| --- | --- |
+| 1% Crit | 35 |
+| 1% Hit | 40 |
+| 1% Melee Hit | 5.5 |
+| 1 mAP | 0.14 |
+| 1 Agi | 2.48 |
+| 1 Agi (kings) | 2.74 |
+| 1 Agi (zg) | 2.87 |
+| 1 Agi (zg+kings) | 3.18 |
+
 <a name="mwp6"></a>
 Phase 6 
 ---
