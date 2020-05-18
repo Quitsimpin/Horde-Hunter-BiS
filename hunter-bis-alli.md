@@ -117,6 +117,9 @@ Phase 4
 <a name="p5"></a>
 Phase 5 
 ---
+- Due to the release of powerful new Use: trinkets, I'm no longer bothering to include fantasy DFT sets.
+- Cloak of the Fallen God is the BiS cloak, but highly unrealistic due to the [other quest rewards](https://classic.wowhead.com/item=21710/cloak-of-the-fallen-god#reward-from-q), so Cloak of the Shrouded Mists is used if you do not need the hit in that slot.
+- In the transition from ZG ring set before you have gotten Godslayer, it is worth it to break the set for the Neutral signet if you have CoaF, or Exalted signet with Seal of Jin.
 
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
@@ -124,7 +127,6 @@ Phase 5
 | B | [Realistic, 3/8 T2, R12, +7 Scope](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) | 891.4 | 1074.2 |
 | C | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) | 889.1 | 1071.2 |
 | D | [Realistic, 3/8 T2, 3/5 T2.5, Hit Scope](https://sixtyupgrades.com/set/3w2Ki4Rphs6EbhnXHr7ChQ) | 875.6 | 1048.5 |
-| E | [True, T2](https://sixtyupgrades.com/set/d4jqNWe3veNUrxGnaGufkp) | 873.5 + 9 per hunter | 1046 |
 | F | [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 868.1 | 1039.2 |
 | G | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 866.7 | 1037.6 |
 | H | [Realistic, T1](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 864.3 | 1055.8 |
@@ -139,7 +141,7 @@ Phase 6
 | C | [Realistic, T2](https://sixtyupgrades.com/set/uDkMwVLASjKNzfCz7ockDc) | 1013.1 |
 
 <a name="meleeweaving"></a>
-Melee weave rotation (work in progress)
+Melee weave rotation
 ===
 - P3 and P4 assume [13/31/7](https://classic.wowhead.com/talent-calc/hunter/530002003-05251030513051-32002) spec, while P5 and P6 assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-05251030513051), based on whether Slaying talents affect the raid bosses of those phases.
 
@@ -222,7 +224,11 @@ Phase 5
 ---
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
-
+[T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) | 959 + 9 per hunter | 1126.9 |
+[T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) | 956.2 + 9 per hunter | 1123.1 |
+[T1, Hit Scope](https://sixtyupgrades.com/set/g9AFM2BYYKL5QLnYd3WJJ3) | 951.7 | 1138.6 |
+[T1, +7 Scope, Accuria](https://sixtyupgrades.com/set/7ViwUPrrLyfARc6c5PNg64) 951.9 | 1138.7 |
+[T1, +7 Scope](https://sixtyupgrades.com/set/c69nhUWYp3GWAtDHZXV4bp) | 948.3 | 1134.2 |
 
 <a name="mwp6"></a>
 Phase 6 
