@@ -231,7 +231,8 @@ Phase 5
 [R13, +7 Scope, Accuria](https://sixtyupgrades.com/set/dVUj6MubaUJX5dwthmhWW5) | 979.8 | 1157.5 |
 [R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) | 979.6 | 1157.4 |
 [R10, +7 Scope](https://sixtyupgrades.com/set/8vHKECBzNDfXH36SWNZ8nQ) | 979.1 | 1150.9 |
-
+[2/5 T2.5, +7 Scope, Accuria](https://sixtyupgrades.com/set/omcGjdsv4HLUTQbReiRLF1) | 967.5 | 1136.7 |
+[2/5 T2.5, +7 Scope](https://sixtyupgrades.com/set/vmcUbCm2KP62v5bMmGDA87) | 966.8 | 1136 |
 [T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) | 959 + 9 per hunter | 1126.9 |
 [T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) | 956.2 + 9 per hunter | 1123.1 |
 [T1, Hit Scope](https://sixtyupgrades.com/set/g9AFM2BYYKL5QLnYd3WJJ3) | 951.7 | 1138.6 |
