@@ -224,9 +224,14 @@ Phase 5
 ---
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
+[R12, Hit Scope](https://sixtyupgrades.com/set/btTZigbQZPfttqYJ7b9WVq) | 985.2 | 1164.6 |
+[R12, +7 Scope](https://sixtyupgrades.com/set/exnsdwJe6vdB2uw6GwnZfc) | 983 | 1161.5 |
+[R10, Hit Scope](https://sixtyupgrades.com/set/pLSJAQjH2Xwq7ZMrRSHBvT) | 981.3 | 1153.9 |
 [R13, +7 Scope, Godslayer](https://sixtyupgrades.com/set/nP9QVyJcYdx4qZ54DzJV3s) | 981.1 | 1159.1 |
 [R13, +7 Scope, Accuria](https://sixtyupgrades.com/set/dVUj6MubaUJX5dwthmhWW5) | 979.8 | 1157.5 |
 [R13, Hit Scope](https://sixtyupgrades.com/set/kTJxvtFimNf9mpkkk8WAmV) | 979.6 | 1157.4 |
+[R10, +7 Scope](https://sixtyupgrades.com/set/8vHKECBzNDfXH36SWNZ8nQ) | 979.1 | 1150.9 |
+
 [T2, Hit Scope](https://sixtyupgrades.com/set/ck81owfyZJWPqiNDZUsdsk) | 959 + 9 per hunter | 1126.9 |
 [T2, +7 Scope](https://sixtyupgrades.com/set/54S2T87HS95EYttvTHgdN7) | 956.2 + 9 per hunter | 1123.1 |
 [T1, Hit Scope](https://sixtyupgrades.com/set/g9AFM2BYYKL5QLnYd3WJJ3) | 951.7 | 1138.6 |
