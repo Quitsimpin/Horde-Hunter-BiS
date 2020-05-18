@@ -253,7 +253,7 @@ Phase 5
 | Stat | eAP |
 | --- | --- |
 | 1% Crit | 35 |
-| 1% Hit | 40 |
+| 1% Hit | 40.5 |
 | 1% Melee Hit | 5.5 |
 | 1 mAP | 0.14 |
 | 1 Agi | 2.48 |
