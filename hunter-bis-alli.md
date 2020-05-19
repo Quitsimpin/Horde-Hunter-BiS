@@ -7,11 +7,11 @@ Skinnay's Classic Hunter Gear Lists (Alliance) ![](https://i.imgur.com/RL0HHcp.p
 
 # Table of Contents
 1. [Normal Ranged Rotation](#normal)
-    1. [Pre-raid P3](#prep3)
-    2. [Phase 3](#p3)
-    3. [Phase 4](#p4)
-    4. [Phase 5](#p5)
-    5. [Phase 6](#p6)
+    - [Pre-raid P3](#prep3)
+    - [Phase 3](#p3)
+    - [Phase 4](#p4)
+    - [Phase 5](#p5)
+    - [Phase 6](#p6)
 2. [Melee Weaving Rotation](#meleeweaving)
     1. [Phase 3](#mwp3)
     2. [Phase 4](#mwp4)
