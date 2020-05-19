@@ -115,7 +115,7 @@ Phase 4
 | 1 Agi (kings+zg) | 3.35 |
 
 <a name="p5"></a>
-Phase 5 
+Phase 5 (updates pending for this section)
 ---
 - Due to the release of powerful new Use: trinkets, I'm no longer bothering to include fantasy DFT sets.
 - Cloak of the Fallen God is the BiS cloak, but highly unrealistic due to the [other quest rewards](https://classic.wowhead.com/item=21710/cloak-of-the-fallen-god#reward-from-q), so Cloak of the Shrouded Mists is used if you do not need the hit in that slot.
