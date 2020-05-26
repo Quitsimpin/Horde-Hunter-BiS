@@ -308,6 +308,7 @@ Weapon Rankings
 
 #### Ranged Weapons
 - Troll or Dwarf racial adds roughly 6 dps
+- MW DPS column being empty means the result was not significantly different from the DPS column (within 1-2 dps)
 
 | Weapon | DPS | MW DPS |
 | --- | --- | --- |
