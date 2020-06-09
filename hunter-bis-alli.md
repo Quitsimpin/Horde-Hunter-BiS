@@ -130,10 +130,10 @@ Phase 5
 | E | [R10, +7 Scope](https://sixtyupgrades.com/set/7FcSX4666sH2XytBNEyv2Z) | 889.7 | 1066.1 |
 | F | [R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGseYc) | 889.3 | 1071.2 |
 | G | [R13, +7 Scope, Accuria](https://sixtyupgrades.com/set/vcUPDobaPfddqzJLXacCe7) | 888.2 | 1070 |
-| H | [5/8 T2, Hit Scope](https://sixtyupgrades.com/set/fnfiXX7sMR6PYrChy4nxsg) | 877.9 | 1051.2 |
+| H | [T2/2.5 mix, Hit Scope](https://sixtyupgrades.com/set/4ThtNUmHpn1QbVJLs1sDGZ) | 880.4 | 1054.3 |
 | I | [5/8 T2, +7 Scope](https://sixtyupgrades.com/set/6xa1xkiEMXr4SmbeZVhFtv) | 874.9 | 1046.2 |
-| J | [T2/2.5 mix, Hit Scope](https://sixtyupgrades.com/set/4ThtNUmHpn1QbVJLs1sDGZ) | 880.4 | 1054.3 |
-| K | [T2/2.5 mix, +7 Scope, 2 Pugio](https://sixtyupgrades.com/set/5HSFA9ywQKkhM95WqAY2Yy) | 878.9 | 1052.7 |
+| J | [T2/2.5 mix, +7 Scope, 2 Pugio](https://sixtyupgrades.com/set/5HSFA9ywQKkhM95WqAY2Yy) | 878.9 | 1052.7 |
+| K | [5/8 T2, Hit Scope](https://sixtyupgrades.com/set/fnfiXX7sMR6PYrChy4nxsg) | 877.9 | 1051.2 |
 | L | [T2/2.5 mix, +7 Scope, 1 Pugio](https://sixtyupgrades.com/set/bXFupbZDvptinfvBwEZ91r) | 877.4 | 1050.8 |
 | M | [T2/2.5 mix, +7 Scope, 1 Pugio, Accuria](https://sixtyupgrades.com/set/pntzqXquqMRjFo5VqgSqUH) | 877.4 | 1050.8 |
 | N | [T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 870.4 | 1042 
