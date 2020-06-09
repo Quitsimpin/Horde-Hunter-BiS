@@ -118,26 +118,38 @@ Phase 4
 Phase 5 (updates pending for this section)
 ---
 - Due to the release of powerful new Use: trinkets, I'm no longer bothering to include fantasy DFT sets.
-- Cloak of the Fallen God is the BiS cloak, but highly unrealistic due to the [other quest rewards](https://classic.wowhead.com/item=21710/cloak-of-the-fallen-god#reward-from-q), so Cloak of the Shrouded Mists is used if you do not need the hit in that slot.
+- Cloak of the Fallen God is the BiS cloak, but unrealistic due to the [other quest rewards](https://classic.wowhead.com/item=21710/cloak-of-the-fallen-god#reward-from-q), so Cloak of the Shrouded Mists is used if you do not need the hit in that slot.
 - In the transition from ZG ring set before you have gotten Godslayer, it is worth it to break the set for the Neutral signet if you have CoaF, or Exalted signet with Seal of Jin.
 
 | ID | Gear set | DPS | AoE DPS |
 | --- | --- | --- | --- |
-| A | [Realistic, 3/8 T2, R12, Hit Scope](https://sixtyupgrades.com/set/qLZRDPuxxhQ1oJavEdCG9i) | 892.9 | 1075.9 |
-| B | [Realistic, 3/8 T2, R12, +7 Scope](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) | 891.4 | 1074.2 |
-| C | [Realistic, R13, +7 Scope](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) | 889.1 | 1071.2 |
+| A | [R12, Hit Scope](https://sixtyupgrades.com/set/qLZRDPuxxhQ1oJavEdCG9i) | 895.2 | 1078.7 |
+| B | [R12, +7 Scope](https://sixtyupgrades.com/set/44jtaaNA9h6SAZhStYDq8) | 893.7 | 1077.1 |
+| C | [R10, Hit Scope](https://sixtyupgrades.com/set/nLDzJ4Ersoc7iGY6eQjv7w) | 891.2 | 1067.7 |
+| D | [R13, +7 Scope, Godslayer](https://sixtyupgrades.com/set/j4YtgKwv1Mq7pQMHrQGvKy) | 891 | 1073.5 |
+| E | [R10, +7 Scope](https://sixtyupgrades.com/set/7FcSX4666sH2XytBNEyv2Z) | 889.7 | 1066.1 |
+| F | [R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGseYc) | 889.3 | 1071.2 |
+| G | [R13, +7 Scope, Accuria](https://sixtyupgrades.com/set/vcUPDobaPfddqzJLXacCe7) | 888.2 | 1070 |
+| H | 
+
 | D | [Realistic, 3/8 T2, 3/5 T2.5, Hit Scope](https://sixtyupgrades.com/set/3w2Ki4Rphs6EbhnXHr7ChQ) | 875.6 | 1048.5 |
 | F | [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 868.1 | 1039.2 |
 | G | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 866.7 | 1037.6 |
-| H | [Realistic, T1](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 864.3 | 1055.8 |
+[T1, +7 Scope, 2 Pugio](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 866.2 | 1058.2 |
+[T1, +7 Scope, 1 Pugio](https://sixtyupgrades.com/set/uwVmKqBa5XDwTrcagy9w63) | 865.4 | 1057.1 |
+| H | [T1, Hit Scope](https://sixtyupgrades.com/set/nQUzsay29ViRyhWoFyK62d) | 864.6 | 1055.9 |
+[T1, +7 Scope, Accuria](https://sixtyupgrades.com/set/v4a5QWCXyNKFbb6uzU66mH) | 863.5 | 1054.7 |
 
-Some alternatives to individual BiS items that do not affect the hit configuration:
-R12 Gloves > Veklor's Gloves > T2 Gloves
-Mantle of Wicked Revenge > Barrage Shoulders
-T2.5 Hauberk > T2 Chest = R13 Chest
-R13 Helm > T2.5 Helm > T2 Helm
-T2.5 Boots > T2 Boots
-Ring of the Godslayer > Circle of Applied Force
+
+Some alternatives to individual BiS items that do not affect the hit configuration:\
+R12 Gloves > Veklor's Gloves > T2 Gloves\
+Mantle of Wicked Revenge > Barrage Shoulders\
+T2.5 Hauberk > T2 Chest = R13 Chest\
+R13 Helm > T2.5 Helm > T2 Helm\
+T2.5 Boots > T2 Boots\
+Ring of the Godslayer > Circle of Applied Force\
+Cloak of the Fallen God > Cloak of the Shrouded Mists
+
 
 <a name="p6"></a>
 Phase 6 
@@ -327,6 +339,8 @@ Weapon Rankings
 <a name="trinkets"></a>
 Swap Trinkets
 ===
+[Examples of Renataki's Trinket Usage](https://gist.github.com/skinnay-dev/0ce6448cc5f9e74336a096eb60708a99)
+
 Devilsaur Eye\
 Devilsaur Tooth\
 Zandalarian Hero Medallion\
