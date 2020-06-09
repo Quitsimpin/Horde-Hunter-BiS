@@ -130,15 +130,13 @@ Phase 5 (updates pending for this section)
 | E | [R10, +7 Scope](https://sixtyupgrades.com/set/7FcSX4666sH2XytBNEyv2Z) | 889.7 | 1066.1 |
 | F | [R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGseYc) | 889.3 | 1071.2 |
 | G | [R13, +7 Scope, Accuria](https://sixtyupgrades.com/set/vcUPDobaPfddqzJLXacCe7) | 888.2 | 1070 |
-| H | 
-
-| D | [Realistic, 3/8 T2, 3/5 T2.5, Hit Scope](https://sixtyupgrades.com/set/3w2Ki4Rphs6EbhnXHr7ChQ) | 875.6 | 1048.5 |
-| F | [Realistic, T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 868.1 | 1039.2 |
-| G | [Realistic, T2, +7 Scope](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 866.7 | 1037.6 |
-[T1, +7 Scope, 2 Pugio](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 866.2 | 1058.2 |
-[T1, +7 Scope, 1 Pugio](https://sixtyupgrades.com/set/uwVmKqBa5XDwTrcagy9w63) | 865.4 | 1057.1 |
-| H | [T1, Hit Scope](https://sixtyupgrades.com/set/nQUzsay29ViRyhWoFyK62d) | 864.6 | 1055.9 |
-[T1, +7 Scope, Accuria](https://sixtyupgrades.com/set/v4a5QWCXyNKFbb6uzU66mH) | 863.5 | 1054.7 |
+| | [T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 870.4 | 1042 
+| | [T2, +7 Scope, 2 Pugio](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 868.9 | 1040.4 |
+| | [T2, +7 Scope, 1 Pugio, Accuria](https://sixtyupgrades.com/set/3kDoPrcwLNAwMjvxqNG7qr) | 867.4 | 1038.4 |
+| | [T1, +7 Scope, 2 Pugio](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 866.2 | 1058.2 |
+| | [T1, +7 Scope, 1 Pugio](https://sixtyupgrades.com/set/uwVmKqBa5XDwTrcagy9w63) | 865.4 | 1057.1 |
+|  | [T1, Hit Scope](https://sixtyupgrades.com/set/nQUzsay29ViRyhWoFyK62d) | 864.6 | 1055.9 |
+| | [T1, +7 Scope, Accuria](https://sixtyupgrades.com/set/v4a5QWCXyNKFbb6uzU66mH) | 863.5 | 1054.7 |
 
 
 Some alternatives to individual BiS items that do not affect the hit configuration:\
