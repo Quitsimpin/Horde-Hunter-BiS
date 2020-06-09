@@ -130,13 +130,18 @@ Phase 5 (updates pending for this section)
 | E | [R10, +7 Scope](https://sixtyupgrades.com/set/7FcSX4666sH2XytBNEyv2Z) | 889.7 | 1066.1 |
 | F | [R13, Hit Scope](https://sixtyupgrades.com/set/vKmZaFHMe1EBmswwjGseYc) | 889.3 | 1071.2 |
 | G | [R13, +7 Scope, Accuria](https://sixtyupgrades.com/set/vcUPDobaPfddqzJLXacCe7) | 888.2 | 1070 |
-| | [T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 870.4 | 1042 
-| | [T2, +7 Scope, 2 Pugio](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 868.9 | 1040.4 |
-| | [T2, +7 Scope, 1 Pugio, Accuria](https://sixtyupgrades.com/set/3kDoPrcwLNAwMjvxqNG7qr) | 867.4 | 1038.4 |
-| | [T1, +7 Scope, 2 Pugio](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 866.2 | 1058.2 |
-| | [T1, +7 Scope, 1 Pugio](https://sixtyupgrades.com/set/uwVmKqBa5XDwTrcagy9w63) | 865.4 | 1057.1 |
-|  | [T1, Hit Scope](https://sixtyupgrades.com/set/nQUzsay29ViRyhWoFyK62d) | 864.6 | 1055.9 |
-| | [T1, +7 Scope, Accuria](https://sixtyupgrades.com/set/v4a5QWCXyNKFbb6uzU66mH) | 863.5 | 1054.7 |
+| H | [5/8 T2, Hit Scope](https://sixtyupgrades.com/set/fnfiXX7sMR6PYrChy4nxsg) | 877.9 | 1051.2 |
+| I | [5/8 T2, +7 Scope](https://sixtyupgrades.com/set/6xa1xkiEMXr4SmbeZVhFtv) | 874.9 | 1046.2 |
+| J | [T2/2.5 mix, Hit Scope](https://sixtyupgrades.com/set/4ThtNUmHpn1QbVJLs1sDGZ) | 880.4 | 1054.3 |
+| K | [T2/2.5 mix, +7 Scope](https://sixtyupgrades.com/set/bXFupbZDvptinfvBwEZ91r) | 877.4 | 1050.8 |
+| L | [T2/2.5 mix, +7 Scope, Accuria](https://sixtyupgrades.com/set/pntzqXquqMRjFo5VqgSqUH) | 877.4 | 1050.8 |
+| M | [T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | 870.4 | 1042 
+| N | [T2, +7 Scope, 2 Pugio](https://sixtyupgrades.com/set/r415aNjN7VptQj2XxCSTFw) | 868.9 | 1040.4 |
+| O | [T2, +7 Scope, 1 Pugio, Accuria](https://sixtyupgrades.com/set/3kDoPrcwLNAwMjvxqNG7qr) | 867.4 | 1038.4 |
+| P | [T1, +7 Scope, 2 Pugio](https://sixtyupgrades.com/set/wckncSc15cWHo9N2fV8Fdo) | 866.2 | 1058.2 |
+| Q | [T1, +7 Scope, 1 Pugio](https://sixtyupgrades.com/set/uwVmKqBa5XDwTrcagy9w63) | 865.4 | 1057.1 |
+| R | [T1, Hit Scope](https://sixtyupgrades.com/set/nQUzsay29ViRyhWoFyK62d) | 864.6 | 1055.9 |
+| S | [T1, +7 Scope, Accuria](https://sixtyupgrades.com/set/v4a5QWCXyNKFbb6uzU66mH) | 863.5 | 1054.7 |
 
 
 Some alternatives to individual BiS items that do not affect the hit configuration:\
