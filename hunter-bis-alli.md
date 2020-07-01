@@ -117,8 +117,8 @@ Phase 4
 <a name="p5"></a>
 Phase 5
 ---
-- Due to the release of powerful new Use: trinkets, I'm no longer bothering to include fantasy DFT sets.
-- Cloak of the Fallen God is the BiS cloak, but unrealistic due to the [other quest rewards](https://classic.wowhead.com/item=21710/cloak-of-the-fallen-god#reward-from-q), so Cloak of the Shrouded Mists is used if you do not need the hit in that slot.
+- Due to the release of powerful new Use: trinkets, I'm no longer bothering to include DFT sets. 
+- Cloak of the Fallen God is the BiS cloak, but unrealistic due to the [other quest rewards](https://classic.wowhead.com/item=21710/cloak-of-the-fallen-god#reward-from-q) (particularly the caster ring), so Cloak of the Shrouded Mists is used if you do not need the hit in that slot.
 - In the transition from ZG ring set before you have gotten Godslayer, it is worth it to break the set for the Neutral signet if you have CoaF, or Exalted signet with Seal of Jin.
 
 | ID | Gear set | DPS | AoE DPS |
